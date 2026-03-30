@@ -1,26 +1,29 @@
 name: Sync bhzb.m3u
 on:
   schedule:
-    - cron: '0 */1 * * *'
-  workflow_dispatch:
+    - cron: '0 */1 * * *'  # 每小时自动同步
+  workflow_dispatch:       # 允许手动触发
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 强制赋予写权限
     steps:
-      - uses: actions/checkout@v4
-      
-      - name: Download m3u
-        run: curl -L -o bhzb.m3u https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u
-
-      - name: Commit
-        run: |
-          git config --global user.name "sync"
-          git config --global user.email "sync@github.com"
-          git add bhzb.m3u
-          git diff --quiet || git commit -m "Update bhzb.m3u"
-          
-      - name: Push
-        uses: ad-m/github-push-action@master
+      - name: Checkout code
+        uses: actions/checkout@v4
         with:
-          github_token: ${{ github.token }}
+          fetch-depth: 1
+
+      - name: Download latest bhzb.m3u
+        run: |
+          curl -L -o bhzb.m3u "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u"
+          ls -lh  # 验证文件是否下载成功
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto update bhzb.m3u from upstream"
+          file_pattern: bhzb.m3u
+          commit_user_name: Auto Sync Bot
+          commit_user_email: sync@github.com
