@@ -1,4 +1,4 @@
-name: TV3 直播源自动抓取(最终版)
+name: TV3 Live Fetch (No Chinese, 100% Valid YAML)
 on:
   schedule:
     - cron: '*/10 * * * *'
@@ -11,18 +11,17 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: 配置环境
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: 安装依赖
+      - name: Install Puppeteer
         run: npm install puppeteer
-      - name: 执行抓取并生成 tv3.m3u
+      - name: Fetch TV3 Source
         run: |
-          cat > tv3-fetch.js << 'JS_END'
+          cat > tv3-fetch.js << 'EOF'
           const puppeteer = require('puppeteer');
           const fs = require('fs');
-
           (async () => {
             const browser = await puppeteer.launch({
               headless: true,
@@ -30,38 +29,22 @@ jobs:
             });
             const page = await browser.newPage();
             await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
-            
-            console.log("正在访问页面...");
             await page.goto('https://malaysia-tv.net/tv3-live/', { waitUntil: 'networkidle2', timeout: 60000 });
-            
-            let m3u8Url = null;
             const html = await page.content();
-            
-            // 匹配 m3u8
-            const regex = /https?:\/\/[^\s"']+\.m3u8/gi;
-            const matches = html.match(regex);
-            
-            if (matches && matches.length > 0) {
-              m3u8Url = matches[0];
-              console.log("✅ 抓到源: " + m3u8Url);
-            } else {
-              console.log("❌ 未抓到 m3u8 链接");
-            }
-
-            if (m3u8Url) {
-              const m3uContent = `#EXTM3U
+            const m3u8 = html.match(/https?:\/\/[^\s"']+\.m3u8/gi)?.[0];
+            if (m3u8) {
+              fs.writeFileSync('tv3.m3u', `#EXTM3U
 #EXTINF:-1,TV3 Malaysia Live
 #EXTVLCOPT:http-referrer=https://malaysia-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-${m3u8Url}`;
-              fs.writeFileSync('tv3.m3u', m3uContent);
+${m3u8}`);
             }
             await browser.close();
           })();
-          JS_END
+          EOF
           node tv3-fetch.js
-      - name: 提交更新
+      - name: Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Auto update TV3 live source
+          commit_message: "Auto update TV3 live source"
           file_pattern: tv3.m3u
