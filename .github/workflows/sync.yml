@@ -1,7 +1,7 @@
-name: Sync + Auto Translate Chinese to English
+name: Sync + Fast Chinese to English Replace
 on:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '0 */1 * * *'  # 每小时同步
   workflow_dispatch:
 
 jobs:
@@ -12,31 +12,32 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # 1. 下载最新文件
       - name: Download bhzb.m3u
         run: curl -L -o bhzb.m3u "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u"
 
-      # 2. 安装翻译工具（全自动）
-      - name: Install translate tool
-        run: sudo apt-get install -y translate-shell
-
-      # 3. 全自动翻译：所有中文 → 英文
-      - name: Auto Translate All Chinese to English
+      - name: Fast replace Chinese to English
         run: |
-          awk '
-          /^#EXTINF/ {
-              cmd = "echo \"" $0 "\" | trans -brief zh:en"
-              while (cmd | getline) { print }
-              close(cmd)
-              next
-          }
-          1
-          ' bhzb.m3u > temp.m3u
-          mv temp.m3u bhzb.m3u
+          sed -i 's/央视/CCTV/g' bhzb.m3u
+          sed -i 's/卫视/TV/g' bhzb.m3u
+          sed -i 's/高清/HD/g' bhzb.m3u
+          sed -i 's/直播/Live/g' bhzb.m3u
+          sed -i 's/综艺/Variety Show/g' bhzb.m3u
+          sed -i 's/电影/Movie/g' bhzb.m3u
+          sed -i 's/电视剧/Drama/g' bhzb.m3u
+          sed -i 's/体育/Sports/g' bhzb.m3u
+          sed -i 's/新闻/News/g' bhzb.m3u
+          sed -i 's/少儿/Kids/g' bhzb.m3u
+          sed -i 's/音乐/Music/g' bhzb.m3u
+          sed -i 's/财经/Finance/g' bhzb.m3u
+          sed -i 's/科教/Science/g' bhzb.m3u
+          sed -i 's/北京/Beijing/g' bhzb.m3u
+          sed -i 's/上海/Shanghai/g' bhzb.m3u
+          sed -i 's/广东/Guangdong/g' bhzb.m3u
+          sed -i 's/浙江/Zhejiang/g' bhzb.m3u
+          sed -i 's/江苏/Jiangsu/g' bhzb.m3u
 
-      # 4. 自动提交（全自动）
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto sync + translate to English"
+          commit_message: "Auto sync + fast replace Chinese to English"
           file_pattern: bhzb.m3u
