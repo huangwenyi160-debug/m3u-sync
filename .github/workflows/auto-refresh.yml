@@ -1,0 +1,53 @@
+name: Auto Refresh M3U8
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install puppeteer
+        run: npm install puppeteer
+      - name: Fetch and write
+        run: |
+          cat > fetch.js << 'EOF'
+          const puppeteer = require('puppeteer');
+          const fs = require('fs');
+          (async () => {
+            const browser = await puppeteer.launch({
+              headless: true,
+              args: ['--no-sandbox']
+            });
+            const page = await browser.newPage();
+            await page.setUserAgent('Mozilla/5.0');
+            await page.goto('https://malaysia-tv.net/tv3-live/', {
+              waitUntil: 'networkidle2',
+              timeout: 50000
+            });
+            const html = await page.content();
+            const m = html.match(/https?:\/\/[^\s"']+\.m3u8\?[^\s"']+/);
+            const url = m ? m[0] : '';
+            if (url) {
+              const out = `#EXTM3U
+#EXTINF:-1,TV3 Live
+#EXTVLCOPT:http-referrer=https://malaysia-tv.net/
+${url}`;
+              fs.writeFileSync('tv3.m3u', out);
+            }
+            await browser.close();
+          })();
+          EOF
+          node fetch.js
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update tv3.m3u
+          file_pattern: tv3.m3u
