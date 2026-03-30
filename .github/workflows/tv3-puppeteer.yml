@@ -1,0 +1,95 @@
+name: TV3 Anti-Crawl Fetch
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Puppeteer
+        run: npm install puppeteer
+
+      - name: Run Fetch Script
+        run: |
+          cat > fetch.js << 'EOF'
+          const puppeteer = require('puppeteer');
+          const fs = require('fs');
+
+          (async () => {
+            const browser = await puppeteer.launch({
+              headless: true,
+              args: [
+                '--no-sandbox',
+                '--disable-setuid-sandbox',
+                '--disable-dev-shm-usage',
+                '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+              ]
+            });
+
+            const page = await browser.newPage();
+
+            await page.goto('https://malaysia-tv.net/tv3-live/', {
+              waitUntil: 'networkidle2',
+              timeout: 60000
+            });
+
+            let m3u8 = null;
+
+            // 抓页面所有 m3u8
+            const body = await page.content();
+            const regex = /https?:\/\/[^\s"']+\.m3u8/g;
+            const match = body.match(regex);
+            if (match) m3u8 = match[0];
+
+            // 如果页面没抓到，去 iframe 里抓
+            if (!m3u8) {
+              const frames = page.frames();
+              for (const frame of frames) {
+                try {
+                  const fbody = await frame.content();
+                  const fmatch = fbody.match(regex);
+                  if (fmatch) {
+                    m3u8 = fmatch[0];
+                    break;
+                  }
+                } catch(e) {}
+              }
+            }
+
+            if (m3u8) {
+              const m3uContent = `#EXTM3U
+#EXTINF:-1,TV3 Malaysia Live
+#EXTVLCOPT:http-referrer=https://malaysia-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+${m3u8}`;
+
+              fs.writeFileSync('tv3.m3u', m3uContent);
+              console.log('✅ Success: ' + m3u8);
+            } else {
+              console.log('❌ No m3u8 found');
+            }
+
+            await browser.close();
+          })();
+          EOF
+
+          node fetch.js
+
+      - name: Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto update TV3 source"
+          file_pattern: tv3.m3u
