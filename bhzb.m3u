@@ -1,40 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="CCTV",CCTV1综合
-http://74.91.26.218:82/live/cctv1hd.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="CCTV",CCTV2Finance
-http://74.91.26.218:82/live/cctv2hd.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="CCTV",CCTV3Variety Show
-http://74.91.26.218:82/live/cctv3hd.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="CCTV",CCTV4中文国际
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="CCTV",CCTV5Sports
-http://74.91.26.218:82/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="CCTV",CCTV6Movie
-http://74.91.26.218:82/live/cctv6hd.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="CCTV",CCTV7国防军事
-http://74.91.26.218:82/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="CCTV",CCTV8Drama
-http://74.91.26.218:82/live/cctv8hd.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="CCTV",CCTV9纪录
-http://74.91.26.218:82/live/cctv9hd.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="CCTV",CCTV10Science
-http://74.91.26.218:82/live/cctv10hd.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="CCTV",CCTV11戏曲
-http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="CCTV",CCTV12社会与法
-http://74.91.26.218:82/live/cctv12hd.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="CCTV",CCTV13News
-http://74.91.26.218:82/live/cctv13hd.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="CCTV",CCTV14Kids
-http://74.91.26.218:82/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="CCTV",CCTV15Music
-http://74.91.26.218:82/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="CCTV",CCTV16奥利匹克
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="CCTV",CCTV17农业农村
-http://74.91.26.218:82/live/cctv17hd.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="CCTV",CCTV5+Sports赛事
-http://74.91.26.218:82/live/cctv5p.m3u8
+
 #EXTINF:-1 tvg-name="cctv1" tvg-logo="https://logo.catvod.com/cctv1.png" group-title="CCTV",cctv1
 http://183.246.208.24:843/liveten-tpgq.cctv.cn/live/30a8228c89a864b186be13047a4b3b60.m3u8
 #EXTINF:-1 tvg-name="cctv2" tvg-logo="https://logo.catvod.com/cctv2.png" group-title="CCTV",cctv2
@@ -97,92 +62,8 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874403_dlna.m3u8
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874603_dlna.m3u8
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://logo.catvod.com/电视指南.png" group-title="CCTV",电视指南
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026875103_dlna.m3u8
-#EXTINF:-1 tvg-name="湖南TV" tvg-logo="https://logo.catvod.com/湖南TV.png" group-title="TV",湖南TV
-http://74.91.26.218:82/live/hnwshd.m3u8
-#EXTINF:-1 tvg-name="ZhejiangTV" tvg-logo="https://logo.catvod.com/ZhejiangTV.png" group-title="TV",ZhejiangTV
-http://74.91.26.218:82/live/zjwshd.m3u8
-#EXTINF:-1 tvg-name="JiangsuTV" tvg-logo="https://logo.catvod.com/JiangsuTV.png" group-title="TV",JiangsuTV
-http://74.91.26.218:82/live/jswshd.m3u8
-#EXTINF:-1 tvg-name="东方TV" tvg-logo="https://logo.catvod.com/东方TV.png" group-title="TV",东方TV
-http://74.91.26.218:82/live/dfwshd.m3u8
-#EXTINF:-1 tvg-name="GuangdongTV" tvg-logo="https://logo.catvod.com/GuangdongTV.png" group-title="TV",GuangdongTV
-http://74.91.26.218:82/live/gdwshd.m3u8
-#EXTINF:-1 tvg-name="深圳TV" tvg-logo="https://logo.catvod.com/深圳TV.png" group-title="TV",深圳TV
-http://74.91.26.218:82/live/szwshd.m3u8
-#EXTINF:-1 tvg-name="南方TV" tvg-logo="https://logo.catvod.com/南方TV.png" group-title="TV",南方TV
-http://74.91.26.218:82/live/nfws.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="Sports",CCTV5Sports
-http://74.91.26.218:82/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="Sports",CCTV16奥林匹克
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="Sports",CCTV5+Sports赛事
-http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-name="GuangdongSports" tvg-logo="https://logo.catvod.com/GuangdongSports.png" group-title="Sports",GuangdongSports
-http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-name="南方TV" tvg-logo="https://logo.catvod.com/南方TV.png" group-title="Guangdong",南方TV
-http://74.91.26.218:82/live/nfws.m3u8
-#EXTINF:-1 tvg-name="GuangdongNews" tvg-logo="https://logo.catvod.com/GuangdongNews.png" group-title="Guangdong",GuangdongNews
-http://74.91.26.218:82/live/gdxw.m3u8
-#EXTINF:-1 tvg-name="Guangdong珠江" tvg-logo="https://logo.catvod.com/Guangdong珠江.png" group-title="Guangdong",Guangdong珠江
-http://74.91.26.218:82/live/gdzj.m3u8
-#EXTINF:-1 tvg-name="GuangdongSports" tvg-logo="https://logo.catvod.com/GuangdongSports.png" group-title="Guangdong",GuangdongSports
-http://74.91.26.218:82/live/gdty.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="香港",翡翠台
-http://74.91.26.218:82/live/jade.m3u8
-#EXTINF:-1 tvg-name="无线News台" tvg-logo="https://logo.catvod.com/无线News台.png" group-title="香港",无线News台
-http://74.91.26.218:82/live/inews.m3u8
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://logo.catvod.com/TVB Plus.png" group-title="香港",TVB Plus
-http://74.91.26.218:82/live/j2.m3u8
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://logo.catvod.com/TVB星河.png" group-title="香港",TVB星河
-http://74.91.26.218:82/live/tvbxh.m3u8
-#EXTINF:-1 tvg-name="TVB千禧经典台" tvg-logo="https://logo.catvod.com/TVB千禧经典台.png" group-title="香港",TVB千禧经典台
-http://74.91.26.218:82/live/tvbjd.m3u8
-#EXTINF:-1 tvg-name="NOW星影台" tvg-logo="https://logo.catvod.com/NOW星影台.png" group-title="香港",NOW星影台
-http://74.91.26.218:82/live/nowxy.m3u8
-#EXTINF:-1 tvg-name="NOW爆谷台" tvg-logo="https://logo.catvod.com/NOW爆谷台.png" group-title="香港",NOW爆谷台
-http://74.91.26.218:82/live/nowbg.m3u8
-#EXTINF:-1 tvg-name="美亚Movie台" tvg-logo="https://logo.catvod.com/美亚Movie台.png" group-title="香港",美亚Movie台
-http://74.91.26.218:82/live/mydy.m3u8
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="香港",天映频道
-http://74.91.26.218:82/live/typd.m3u8
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="香港",天映经典
-http://74.91.26.218:82/live/tyjd.m3u8
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://logo.catvod.com/中视.png" group-title="台湾",中视
-http://74.91.26.218:82/live/ctv.m3u8
-#EXTINF:-1 tvg-name="中视News" tvg-logo="https://logo.catvod.com/中视News.png" group-title="台湾",中视News
-http://74.91.26.218:82/live/ctvnews.m3u8
-#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://logo.catvod.com/中视经典.png" group-title="台湾",中视经典
-http://74.91.26.218:82/live/ctvjd.m3u8
-#EXTINF:-1 tvg-name="中视菁采" tvg-logo="https://logo.catvod.com/中视菁采.png" group-title="台湾",中视菁采
-http://74.91.26.218:82/live/ctvjc.m3u8
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://logo.catvod.com/台视.png" group-title="台湾",台视
-http://74.91.26.218:82/live/ttv.m3u8
-#EXTINF:-1 tvg-name="台视News" tvg-logo="https://logo.catvod.com/台视News.png" group-title="台湾",台视News
-http://74.91.26.218:82/live/ttvnews.m3u8
-#EXTINF:-1 tvg-name="台视综合" tvg-logo="https://logo.catvod.com/台视综合.png" group-title="台湾",台视综合
-http://74.91.26.218:82/live/ttvzh.m3u8
-#EXTINF:-1 tvg-name="台视Finance" tvg-logo="https://logo.catvod.com/台视Finance.png" group-title="台湾",台视Finance
-http://74.91.26.218:82/live/ttvcj.m3u8
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://logo.catvod.com/华视.png" group-title="台湾",华视
-http://74.91.26.218:82/live/cts.m3u8
-#EXTINF:-1 tvg-name="华视News资讯" tvg-logo="https://logo.catvod.com/华视News资讯.png" group-title="台湾",华视News资讯
-http://74.91.26.218:82/live/ctsnews.m3u8
-#EXTINF:-1 tvg-name="华视教育Sports文化" tvg-logo="https://logo.catvod.com/华视教育Sports文化.png" group-title="台湾",华视教育Sports文化
-http://74.91.26.218:82/live/ctsjy.m3u8
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://logo.catvod.com/民视.png" group-title="台湾",民视
-http://74.91.26.218:82/live/ftv.m3u8
-#EXTINF:-1 tvg-name="民视News台" tvg-logo="https://logo.catvod.com/民视News台.png" group-title="台湾",民视News台
-http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://logo.catvod.com/民视台湾台.png" group-title="台湾",民视台湾台
-http://74.91.26.218:82/live/ftvtw.m3u8
-#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://logo.catvod.com/民视第一台.png" group-title="台湾",民视第一台
-http://74.91.26.218:82/live/ftvdy.m3u8
-#EXTINF:-1 tvg-name="公视" tvg-logo="https://logo.catvod.com/公视.png" group-title="台湾",公视
-http://74.91.26.218:82/live/pts.m3u8
-#EXTINF:-1 tvg-name="公视台语台" tvg-logo="https://logo.catvod.com/公视台语台.png" group-title="台湾",公视台语台
-http://74.91.26.218:82/live/ptsty.m3u8
-#EXTINF:-1 tvg-name="小公视" tvg-logo="https://logo.catvod.com/小公视.png" group-title="台湾",小公视
-http://74.91.26.218:82/live/ptsse.m3u8
+
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="CCTVTV",CCTV1-综合
 http://219.138.10.19:10085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="CCTVTV",CCTV2-Finance
@@ -277,1355 +158,185 @@ http://219.138.10.19:10085/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=
 http://219.138.10.19:10085/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="俄罗斯环球频道" tvg-logo="https://logo.catvod.com/俄罗斯环球频道.png" group-title="CCTVTV",俄罗斯环球频道
 http://219.138.10.19:10085/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="PopC" tvg-logo="https://logo.catvod.com/PopC.png" group-title="港澳推流",PopC
+#EXTINF:-1 tvg-name="PopC" tvg-logo="https://logo.catvod.com/PopC.png" group-title="推流",PopC
 https://tvb.go-iptv.ggff.net/stream/tvb/popc/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://logo.catvod.com/TVB Plus.png" group-title="港澳推流",TVB Plus
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://logo.catvod.com/TVB Plus.png" group-title="推流",TVB Plus
 https://tvb.go-iptv.ggff.net/stream/tvb/tvbplus/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="tvN" tvg-logo="https://logo.catvod.com/tvN.png" group-title="港澳推流",tvN
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://logo.catvod.com/tvN.png" group-title="推流",tvN
 https://tvb.go-iptv.ggff.net/stream/tvb/tvn/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="娛樂新聞台" tvg-logo="https://logo.catvod.com/娛樂新聞台.png" group-title="港澳推流",娛樂新聞台
+#EXTINF:-1 tvg-name="娛樂新聞台" tvg-logo="https://logo.catvod.com/娛樂新聞台.png" group-title="推流",娛樂新聞台
 https://tvb.go-iptv.ggff.net/stream/tvb/null-5/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="港澳推流",明珠台
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="推流",明珠台
 https://tvb.go-iptv.ggff.net/stream/tvb/null-3/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://logo.catvod.com/無綫新聞台.png" group-title="港澳推流",無綫新聞台
+#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://logo.catvod.com/無綫新聞台.png" group-title="推流",無綫新聞台
 https://tvb.go-iptv.ggff.net/stream/tvb/null-4/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://logo.catvod.com/鳳凰衛視中文台.png" group-title="港澳推流",鳳凰衛視中文台
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://logo.catvod.com/鳳凰衛視中文台.png" group-title="推流",鳳凰衛視中文台
 https://tvb.go-iptv.ggff.net/stream/tvb/null-2/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://logo.catvod.com/鳳凰衛視資訊台.png" group-title="港澳推流",鳳凰衛視資訊台
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://logo.catvod.com/鳳凰衛視資訊台.png" group-title="推流",鳳凰衛視資訊台
 https://tvb.go-iptv.ggff.net/stream/tvb/null/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://logo.catvod.com/鳳凰衛視香港台.png" group-title="港澳推流",鳳凰衛視香港台
+#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://logo.catvod.com/鳳凰衛視香港台.png" group-title="推流",鳳凰衛視香港台
 https://tvb.go-iptv.ggff.net/stream/tvb/null-1/master.m3u8?u=caonima&p=17dff6b2f2f8765d17991c586cbb7ef9827a1dd4982e17b915453c457e4636ab
-#EXTINF:-1 tvg-name="华丽翡翠台(硬字幕)" tvg-logo="https://logo.catvod.com/华丽翡翠台(硬字幕).png" group-title="港澳推流",华丽翡翠台(硬字幕)
+#EXTINF:-1 tvg-name="华丽翡翠台(硬字幕)" tvg-logo="https://logo.catvod.com/华丽翡翠台(硬字幕).png" group-title="推流",华丽翡翠台(硬字幕)
 https://cdn6.163189.xyz/163189/jade
-#EXTINF:-1 tvg-name="翡翠台字幕" tvg-logo="https://logo.catvod.com/翡翠台字幕.png" group-title="港澳推流",翡翠台字幕
+#EXTINF:-1 tvg-name="翡翠台字幕" tvg-logo="https://logo.catvod.com/翡翠台字幕.png" group-title="推流",翡翠台字幕
 https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-name="明珠台字幕" tvg-logo="https://logo.catvod.com/明珠台字幕.png" group-title="港澳推流",明珠台字幕
+#EXTINF:-1 tvg-name="明珠台字幕" tvg-logo="https://logo.catvod.com/明珠台字幕.png" group-title="推流",明珠台字幕
 https://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-name="翡翠台4K(多音轨字幕)" tvg-logo="https://logo.catvod.com/翡翠台4K(多音轨字幕).png" group-title="港澳推流",翡翠台4K(多音轨字幕)
+#EXTINF:-1 tvg-name="翡翠台4K(多音轨字幕)" tvg-logo="https://logo.catvod.com/翡翠台4K(多音轨字幕).png" group-title="推流",翡翠台4K(多音轨字幕)
 https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="TVB PLUS(多音轨字幕)" tvg-logo="https://logo.catvod.com/TVB PLUS(多音轨字幕).png" group-title="港澳推流",TVB PLUS(多音轨字幕)
+#EXTINF:-1 tvg-name="TVB PLUS(多音轨字幕)" tvg-logo="https://logo.catvod.com/TVB PLUS(多音轨字幕).png" group-title="推流",TVB PLUS(多音轨字幕)
 https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-name="明珠台(多音轨字幕)" tvg-logo="https://logo.catvod.com/明珠台(多音轨字幕).png" group-title="港澳推流",明珠台(多音轨字幕)
+#EXTINF:-1 tvg-name="明珠台(多音轨字幕)" tvg-logo="https://logo.catvod.com/明珠台(多音轨字幕).png" group-title="推流",明珠台(多音轨字幕)
 https://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 tvg-name="华丽翡翠台(多音轨字幕)" tvg-logo="https://logo.catvod.com/华丽翡翠台(多音轨字幕).png" group-title="港澳推流",华丽翡翠台(多音轨字幕)
+#EXTINF:-1 tvg-name="华丽翡翠台(多音轨字幕)" tvg-logo="https://logo.catvod.com/华丽翡翠台(多音轨字幕).png" group-title="推流",华丽翡翠台(多音轨字幕)
 https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 tvg-name="华丽翡翠台(新加坡)" tvg-logo="https://logo.catvod.com/华丽翡翠台(新加坡).png" group-title="港澳推流",华丽翡翠台(新加坡)
+#EXTINF:-1 tvg-name="华丽翡翠台(新加坡)" tvg-logo="https://logo.catvod.com/华丽翡翠台(新加坡).png" group-title="推流",华丽翡翠台(新加坡)
 https://o11.163189.xyz/stream/live/jade/
-#EXTINF:-1 tvg-name="Astro AOD(多音轨字幕)" tvg-logo="https://logo.catvod.com/Astro AOD(多音轨字幕).png" group-title="港澳推流",Astro AOD(多音轨字幕)
+#EXTINF:-1 tvg-name="Astro AOD(多音轨字幕)" tvg-logo="https://logo.catvod.com/Astro AOD(多音轨字幕).png" group-title="推流",Astro AOD(多音轨字幕)
 https://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 tvg-name="Astro AEC(多音轨字幕)" tvg-logo="https://logo.catvod.com/Astro AEC(多音轨字幕).png" group-title="港澳推流",Astro AEC(多音轨字幕)
+#EXTINF:-1 tvg-name="Astro AEC(多音轨字幕)" tvg-logo="https://logo.catvod.com/Astro AEC(多音轨字幕).png" group-title="推流",Astro AEC(多音轨字幕)
 https://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 tvg-name="Astro QJ(多音轨字幕)" tvg-logo="https://logo.catvod.com/Astro QJ(多音轨字幕).png" group-title="港澳推流",Astro QJ(多音轨字幕)
+#EXTINF:-1 tvg-name="Astro QJ(多音轨字幕)" tvg-logo="https://logo.catvod.com/Astro QJ(多音轨字幕).png" group-title="推流",Astro QJ(多音轨字幕)
 https://o11.163189.xyz/stream/live/qj/
-#EXTINF:-1 tvg-name="TVB星河(多音轨字幕)" tvg-logo="https://logo.catvod.com/TVB星河(多音轨字幕).png" group-title="港澳推流",TVB星河(多音轨字幕)
+#EXTINF:-1 tvg-name="TVB星河(多音轨字幕)" tvg-logo="https://logo.catvod.com/TVB星河(多音轨字幕).png" group-title="推流",TVB星河(多音轨字幕)
 https://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://logo.catvod.com/爱奇艺.png" group-title="港澳推流",爱奇艺
+#EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://logo.catvod.com/爱奇艺.png" group-title="推流",爱奇艺
 https://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://logo.catvod.com/千禧经典台.png" group-title="港澳推流",千禧经典台
+#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://logo.catvod.com/千禧经典台.png" group-title="推流",千禧经典台
 https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="港澳推流",翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="推流",翡翠台
 https://cdn6.163189.xyz/163189/fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="港澳推流",翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="推流",翡翠台
 https://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="港澳推流",翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="推流",翡翠台
 https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="港澳推流",翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="推流",翡翠台
 https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="港澳推流",明珠台
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="推流",明珠台
 https://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="港澳推流",明珠台
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="推流",明珠台
 https://cdn6.163189.xyz/163189/mzt
-#EXTINF:-1 tvg-name="翡翠台北美版(TVB J1)" tvg-logo="https://logo.catvod.com/翡翠台北美版(TVB J1).png" group-title="港澳推流",翡翠台北美版(TVB J1)
+#EXTINF:-1 tvg-name="翡翠台北美版(TVB J1)" tvg-logo="https://logo.catvod.com/翡翠台北美版(TVB J1).png" group-title="推流",翡翠台北美版(TVB J1)
 https://6.cdn.loc.cc/163189.php?id=j1
-#EXTINF:-1 tvg-name="TVB J1" tvg-logo="https://logo.catvod.com/TVB J1.png" group-title="港澳推流",TVB J1
+#EXTINF:-1 tvg-name="TVB J1" tvg-logo="https://logo.catvod.com/TVB J1.png" group-title="推流",TVB J1
 http://s2.an94tv.cfd/aktv/CH-17/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://logo.catvod.com/TVB Plus.png" group-title="港澳推流",TVB Plus
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://logo.catvod.com/TVB Plus.png" group-title="推流",TVB Plus
 https://cdn6.163189.xyz/163189/tvbp
-#EXTINF:-1 tvg-name="无线News" tvg-logo="https://logo.catvod.com/无线News.png" group-title="港澳推流",无线News
+#EXTINF:-1 tvg-name="无线News" tvg-logo="https://logo.catvod.com/无线News.png" group-title="推流",无线News
 https://cdn6.163189.xyz/163189/wxxw
-#EXTINF:-1 tvg-name="无线News" tvg-logo="https://logo.catvod.com/无线News.png" group-title="港澳推流",无线News
+#EXTINF:-1 tvg-name="无线News" tvg-logo="https://logo.catvod.com/无线News.png" group-title="推流",无线News
 https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
-#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://logo.catvod.com/VIUTV.png" group-title="港澳推流",VIUTV
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://logo.catvod.com/VIUTV.png" group-title="推流",VIUTV
 https://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
-#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://logo.catvod.com/VIUTV.png" group-title="港澳推流",VIUTV
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://logo.catvod.com/VIUTV.png" group-title="推流",VIUTV
 https://cdn.163189.xyz/163189/viu
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://logo.catvod.com/HOY TV.png" group-title="港澳推流",HOY TV
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://logo.catvod.com/HOY TV.png" group-title="推流",HOY TV
 https://cdn6.163189.xyz/163189/hoy
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://logo.catvod.com/HOY TV.png" group-title="港澳推流",HOY TV
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://logo.catvod.com/HOY TV.png" group-title="推流",HOY TV
 https://cdn.163189.xyz/163189/hoy
-#EXTINF:-1 tvg-name="HOY剧集台" tvg-logo="https://logo.catvod.com/HOY剧集台.png" group-title="港澳推流",HOY剧集台
+#EXTINF:-1 tvg-name="HOY剧集台" tvg-logo="https://logo.catvod.com/HOY剧集台.png" group-title="推流",HOY剧集台
 https://cdn.163189.xyz/163189/hoyjj
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="港澳推流",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="推流",凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="港澳推流",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="推流",凤凰资讯
 https://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="港澳推流",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="推流",凤凰资讯
 http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="港澳推流",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="推流",凤凰香港
 https://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://logo.catvod.com/重温经典.png" group-title="港澳推流",重温经典
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://logo.catvod.com/重温经典.png" group-title="推流",重温经典
 https://cdn6.163189.xyz/163189/cwjd
-#EXTINF:-1 tvg-name="Guangdong珠江" tvg-logo="https://logo.catvod.com/Guangdong珠江.png" group-title="港澳推流",Guangdong珠江
+#EXTINF:-1 tvg-name="Guangdong珠江" tvg-logo="https://logo.catvod.com/Guangdong珠江.png" group-title="推流",Guangdong珠江
 https://cdn2.163189.xyz/163189/gdzj
-#EXTINF:-1 tvg-name="GuangdongSports" tvg-logo="https://logo.catvod.com/GuangdongSports.png" group-title="港澳推流",GuangdongSports
+#EXTINF:-1 tvg-name="GuangdongSports" tvg-logo="https://logo.catvod.com/GuangdongSports.png" group-title="推流",GuangdongSports
 https://cdn2.163189.xyz/163189/gdty
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://logo.catvod.com/澳视澳门.png" group-title="港澳推流",澳视澳门
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://logo.catvod.com/澳视澳门.png" group-title="推流",澳视澳门
 https://cdn6.163189.xyz/163189/asam
-#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://logo.catvod.com/澳视卫星.png" group-title="港澳推流",澳视卫星
+#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://logo.catvod.com/澳视卫星.png" group-title="推流",澳视卫星
 https://cdn6.163189.xyz/163189/as
-#EXTINF:-1 tvg-name="澳门Sports" tvg-logo="https://logo.catvod.com/澳门Sports.png" group-title="港澳推流",澳门Sports
+#EXTINF:-1 tvg-name="澳门Sports" tvg-logo="https://logo.catvod.com/澳门Sports.png" group-title="推流",澳门Sports
 https://cdn6.163189.xyz/163189/amty
-#EXTINF:-1 tvg-name="澳门Variety Show" tvg-logo="https://logo.catvod.com/澳门Variety Show.png" group-title="港澳推流",澳门Variety Show
+#EXTINF:-1 tvg-name="澳门Variety Show" tvg-logo="https://logo.catvod.com/澳门Variety Show.png" group-title="推流",澳门Variety Show
 https://cdn6.163189.xyz/163189/amzy
-#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://logo.catvod.com/澳门莲花.png" group-title="港澳推流",澳门莲花
+#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://logo.catvod.com/澳门莲花.png" group-title="推流",澳门莲花
 https://cdn6.163189.xyz/163189/amlh
-#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://logo.catvod.com/RTHK31.png" group-title="港澳推流",RTHK31
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://logo.catvod.com/RTHK31.png" group-title="推流",RTHK31
 https://cdn.163189.xyz/163189/rthk31
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://logo.catvod.com/RTHK32.png" group-title="港澳推流",RTHK32
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://logo.catvod.com/RTHK32.png" group-title="推流",RTHK32
 https://cdn.163189.xyz/163189/rthk32
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="港澳推流",CCTV1港澳版
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="推流",CCTV1港澳版
 https://cdn6.163189.xyz/163189/cctv1
-#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://logo.catvod.com/八度空间.png" group-title="港澳推流",八度空间
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://logo.catvod.com/八度空间.png" group-title="推流",八度空间
 https://cdn6.163189.xyz/163189/8tv
-#EXTINF:-1 tvg-name="CH5" tvg-logo="https://logo.catvod.com/CH5.png" group-title="港澳推流",CH5
+#EXTINF:-1 tvg-name="CH5" tvg-logo="https://logo.catvod.com/CH5.png" group-title="推流",CH5
 https://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 tvg-name="CH8" tvg-logo="https://logo.catvod.com/CH8.png" group-title="港澳推流",CH8
+#EXTINF:-1 tvg-name="CH8" tvg-logo="https://logo.catvod.com/CH8.png" group-title="推流",CH8
 https://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 tvg-name="CHU" tvg-logo="https://logo.catvod.com/CHU.png" group-title="港澳推流",CHU
+#EXTINF:-1 tvg-name="CHU" tvg-logo="https://logo.catvod.com/CHU.png" group-title="推流",CHU
 https://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 tvg-name="龙华Movie" tvg-logo="https://logo.catvod.com/龙华Movie.png" group-title="港澳推流",龙华Movie
+#EXTINF:-1 tvg-name="龙华Movie" tvg-logo="https://logo.catvod.com/龙华Movie.png" group-title="推流",龙华Movie
 https://cdn8.163189.xyz/163189/lhdy
-#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://logo.catvod.com/龙华经典.png" group-title="港澳推流",龙华经典
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://logo.catvod.com/龙华经典.png" group-title="推流",龙华经典
 https://cdn8.163189.xyz/163189/lhjd
-#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://logo.catvod.com/龙华卡通.png" group-title="港澳推流",龙华卡通
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://logo.catvod.com/龙华卡通.png" group-title="推流",龙华卡通
 https://cdn8.163189.xyz/163189/lhkt
-#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://logo.catvod.com/龙华偶像.png" group-title="港澳推流",龙华偶像
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://logo.catvod.com/龙华偶像.png" group-title="推流",龙华偶像
 https://cdn8.163189.xyz/163189/lhox
-#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://logo.catvod.com/龙华日韩.png" group-title="港澳推流",龙华日韩
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://logo.catvod.com/龙华日韩.png" group-title="推流",龙华日韩
 https://cdn8.163189.xyz/163189/lhrh
-#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://logo.catvod.com/龙华戏剧.png" group-title="港澳推流",龙华戏剧
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://logo.catvod.com/龙华戏剧.png" group-title="推流",龙华戏剧
 https://cdn8.163189.xyz/163189/lhxj
-#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://logo.catvod.com/龙华洋片.png" group-title="港澳推流",龙华洋片
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://logo.catvod.com/龙华洋片.png" group-title="推流",龙华洋片
 https://cdn8.163189.xyz/163189/lhyp
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="港澳推流",翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="推流",翡翠台
 https://smt.1678520.xyz/smt3.2.3.php?id=jade_twn
-#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://logo.catvod.com/华丽翡翠台.png" group-title="港澳推流",华丽翡翠台
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://logo.catvod.com/华丽翡翠台.png" group-title="推流",华丽翡翠台
 https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 tvg-name="无线News台" tvg-logo="https://logo.catvod.com/无线News台.png" group-title="港澳推流",无线News台
+#EXTINF:-1 tvg-name="无线News台" tvg-logo="https://logo.catvod.com/无线News台.png" group-title="推流",无线News台
 https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://logo.catvod.com/TVB星河.png" group-title="港澳推流",TVB星河
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://logo.catvod.com/TVB星河.png" group-title="推流",TVB星河
 https://cdn10.163189.xyz/163189/xinghe
-#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://logo.catvod.com/千禧经典台.png" group-title="港澳推流",千禧经典台
+#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://logo.catvod.com/千禧经典台.png" group-title="推流",千禧经典台
 https://smt.1678520.xyz/smt3.2.3.php?id=Tvbclassic
-#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://logo.catvod.com/Astro QJ.png" group-title="港澳推流",Astro QJ
+#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://logo.catvod.com/Astro QJ.png" group-title="推流",Astro QJ
 https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
-#EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://logo.catvod.com/Astro欢喜台.png" group-title="港澳推流",Astro欢喜台
+#EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://logo.catvod.com/Astro欢喜台.png" group-title="推流",Astro欢喜台
 https://smt.1678520.xyz/smt3.2.3.php?id=Huahee
-#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://logo.catvod.com/八度空间.png" group-title="港澳推流",八度空间
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://logo.catvod.com/八度空间.png" group-title="推流",八度空间
 https://smt.1678520.xyz/smt3.2.1.php?id=TV8
-#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://logo.catvod.com/华丽翡翠台.png" group-title="港澳推流",华丽翡翠台
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://logo.catvod.com/华丽翡翠台.png" group-title="推流",华丽翡翠台
 https://o11.163189.xyz/stream/live/jade/
-#EXTINF:-1 tvg-name="亚洲武侠" tvg-logo="https://logo.catvod.com/亚洲武侠.png" group-title="港澳推流",亚洲武侠
+#EXTINF:-1 tvg-name="亚洲武侠" tvg-logo="https://logo.catvod.com/亚洲武侠.png" group-title="推流",亚洲武侠
 https://cdn6.163189.xyz/163189/yzwx
-#EXTINF:-1 tvg-name="TVB娱乐News台" tvg-logo="https://logo.catvod.com/TVB娱乐News台.png" group-title="港澳推流",TVB娱乐News台
+#EXTINF:-1 tvg-name="TVB娱乐News台" tvg-logo="https://logo.catvod.com/TVB娱乐News台.png" group-title="推流",TVB娱乐News台
 https://cdn6.163189.xyz/163189/ylxw
-#EXTINF:-1 tvg-name="无线News台" tvg-logo="https://logo.catvod.com/无线News台.png" group-title="港澳推流",无线News台
+#EXTINF:-1 tvg-name="无线News台" tvg-logo="https://logo.catvod.com/无线News台.png" group-title="推流",无线News台
 https://cdn6.163189.xyz/163189/wxxwt
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://logo.catvod.com/TVB星河.png" group-title="港澳推流",TVB星河
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://logo.catvod.com/TVB星河.png" group-title="推流",TVB星河
 https://cdn6.163189.xyz/163189/tvbxh
-#EXTINF:-1 tvg-name="NOWNews台" tvg-logo="https://logo.catvod.com/NOWNews台.png" group-title="港澳推流",NOWNews台
+#EXTINF:-1 tvg-name="NOWNews台" tvg-logo="https://logo.catvod.com/NOWNews台.png" group-title="推流",NOWNews台
 https://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://logo.catvod.com/翡翠台4K.png" group-title="港澳推流",翡翠台4K
+#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://logo.catvod.com/翡翠台4K.png" group-title="推流",翡翠台4K
 https://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1 tvg-name="翡翠台(字幕)" tvg-logo="https://logo.catvod.com/翡翠台(字幕).png" group-title="港澳推流",翡翠台(字幕)
+#EXTINF:-1 tvg-name="翡翠台(字幕)" tvg-logo="https://logo.catvod.com/翡翠台(字幕).png" group-title="推流",翡翠台(字幕)
 https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-name="明珠台(字幕)" tvg-logo="https://logo.catvod.com/明珠台(字幕).png" group-title="港澳推流",明珠台(字幕)
+#EXTINF:-1 tvg-name="明珠台(字幕)" tvg-logo="https://logo.catvod.com/明珠台(字幕).png" group-title="推流",明珠台(字幕)
 https://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://logo.catvod.com/TVB1.png" group-title="港澳推流",TVB1
+#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://logo.catvod.com/TVB1.png" group-title="推流",TVB1
 https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="港澳推流",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="推流",CCTV13
 https://cdn3.163189.xyz/163189/cctv13
-#EXTINF:-1 tvg-name="海峡TV" tvg-logo="https://logo.catvod.com/海峡TV.png" group-title="港澳推流",海峡TV
+#EXTINF:-1 tvg-name="海峡TV" tvg-logo="https://logo.catvod.com/海峡TV.png" group-title="推流",海峡TV
 https://cdn3.163189.xyz/163189/hxws
-#EXTINF:-1 tvg-name="TVB星河国语" tvg-logo="https://logo.catvod.com/TVB星河国语.png" group-title="港澳推流",TVB星河国语
+#EXTINF:-1 tvg-name="TVB星河国语" tvg-logo="https://logo.catvod.com/TVB星河国语.png" group-title="推流",TVB星河国语
 https://cdn10.163189.xyz/163189/xinghe
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港澳推流",天映频道
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="推流",天映频道
 https://cdn10.163189.xyz/163189/typd
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="港澳推流",天映经典
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="推流",天映经典
 https://cdn10.163189.xyz/163189/ccm
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="🇨🇳 中國 | China",CCTV-1 綜合
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv1/
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="🇨🇳 中國 | China",CCTV-2 財經
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv2/
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="🇨🇳 中國 | China",CCTV-3 綜藝
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv3/
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="🇨🇳 中國 | China",CCTV-4 中文國際
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cctv4/
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="🇨🇳 中國 | China",CCTV-4 中文國際 (備:1)
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv4/
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="🇨🇳 中國 | China",CCTV-6 電影
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv6/
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="🇨🇳 中國 | China",CCTV-7 軍事農業
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv7/
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="🇨🇳 中國 | China",CCTV-8 電視劇
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv8hd/
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="🇨🇳 中國 | China",CCTV-9 紀錄
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv9hd/
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="🇨🇳 中國 | China",CCTV-10 Science
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv10hd/
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="🇨🇳 中國 | China",CCTV-11 戲曲
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv11/
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="🇨🇳 中國 | China",CCTV-12 社會與法
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv12/
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="🇨🇳 中國 | China",CCTV-14 少兒
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv14/
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="🇨🇳 中國 | China",CCTV-15 音樂
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv15/
-#EXTINF:-1 tvg-name="湖南TV" tvg-logo="https://logo.catvod.com/湖南TV.png" group-title="🇨🇳 中國 | China",湖南TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hunan_twn/
-#EXTINF:-1 tvg-name="ZhejiangTV" tvg-logo="https://logo.catvod.com/ZhejiangTV.png" group-title="🇨🇳 中國 | China",ZhejiangTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhejiang_twn/
-#EXTINF:-1 tvg-name="JiangsuTV" tvg-logo="https://logo.catvod.com/JiangsuTV.png" group-title="🇨🇳 中國 | China",JiangsuTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jiangsu_twn/
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="🇨🇳 中國 | China",CCTV-13 新聞與頻道
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv13/
-#EXTINF:-1 tvg-name="深圳TV" tvg-logo="https://logo.catvod.com/深圳TV.png" group-title="🇨🇳 中國 | China",深圳TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=shenzhen/
-#EXTINF:-1 tvg-name="福建东南TV" tvg-logo="https://logo.catvod.com/福建东南TV.png" group-title="🇨🇳 中國 | China",福建东南TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=fujian/
-#EXTINF:-1 tvg-name="Guangdong南方TV" tvg-logo="https://logo.catvod.com/Guangdong南方TV.png" group-title="🇨🇳 中國 | China",Guangdong南方TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nanfang_twn/
-#EXTINF:-1 tvg-name="GuangdongTV" tvg-logo="https://logo.catvod.com/GuangdongTV.png" group-title="🇨🇳 中國 | China",GuangdongTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=guangdongweishi_twn/
-#EXTINF:-1 tvg-name="BeijingTV" tvg-logo="https://logo.catvod.com/BeijingTV.png" group-title="🇨🇳 中國 | China",BeijingTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=beijing/
-#EXTINF:-1 tvg-name="珠江台" tvg-logo="https://logo.catvod.com/珠江台.png" group-title="🇨🇳 中國 | China",珠江台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhujiang/
-#EXTINF:-1 tvg-name="广西TV" tvg-logo="https://logo.catvod.com/广西TV.png" group-title="🇨🇳 中國 | China",广西TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=guangxi/
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="🇨🇳 中國 | China",CGTN
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=CGTN/
-#EXTINF:-1 tvg-name="湖北TV" tvg-logo="https://logo.catvod.com/湖北TV.png" group-title="🇨🇳 中國 | China",湖北TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hubei/
-#EXTINF:-1 tvg-name="四川TV" tvg-logo="https://logo.catvod.com/四川TV.png" group-title="🇨🇳 中國 | China",四川TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sichuan_twn/
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="🇨🇳 中國 | China",CCTV-5 體育
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv5/
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="🇨🇳 中國 | China",CCTV-5+ 體育
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv5plus/
-#EXTINF:-1 tvg-name="东方TV" tvg-logo="https://logo.catvod.com/东方TV.png" group-title="🇨🇳 中國 | China",东方TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dongfangweishi_twn/
-#EXTINF:-1 tvg-name="凤凰TV" tvg-logo="https://logo.catvod.com/凤凰TV.png" group-title="🇨🇳 中國 | China",凤凰TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=phoenixtv_hd/
-#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://logo.catvod.com/鳳凰資訊.png" group-title="🇨🇳 中國 | China",鳳凰資訊
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=phoenixinfo_hd/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="🇭🇰 香港 | Hong Kong",翡翠台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jade_twn/
-#EXTINF:-1 tvg-name="翡翠台 (Back up 1)" tvg-logo="https://logo.catvod.com/翡翠台 (Back up 1).png" group-title="🇭🇰 香港 | Hong Kong",翡翠台 (Back up 1)
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jade_xue/
-#EXTINF:-1 tvg-name="iNews 互動新聞台" tvg-logo="https://logo.catvod.com/iNews 互動新聞台.png" group-title="🇭🇰 香港 | Hong Kong",iNews 互動新聞台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=inews_twn/
-#EXTINF:-1 tvg-name="J 2" tvg-logo="https://logo.catvod.com/J 2.png" group-title="🇭🇰 香港 | Hong Kong",J 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=j2_twn/
-#EXTINF:-1 tvg-name="珍珠台" tvg-logo="https://logo.catvod.com/珍珠台.png" group-title="🇭🇰 香港 | Hong Kong",珍珠台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=pearl_twn/
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="🇭🇰 香港 | Hong Kong",凤凰香港
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hkphoenix_twn/
-#EXTINF:-1 tvg-name="无线Finance资讯台" tvg-logo="https://logo.catvod.com/无线Finance资讯台.png" group-title="🇭🇰 香港 | Hong Kong",无线Finance资讯台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hoycaijing_twn/
-#EXTINF:-1 tvg-name="RHK 31" tvg-logo="https://logo.catvod.com/RHK 31.png" group-title="🇭🇰 香港 | Hong Kong",RHK 31
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=rhk31_twn/
-#EXTINF:-1 tvg-name="VIUTV1" tvg-logo="https://logo.catvod.com/VIUTV1.png" group-title="🇭🇰 香港 | Hong Kong",VIUTV1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=viu1_twn/
-#EXTINF:-1 tvg-name="RHK 32" tvg-logo="https://logo.catvod.com/RHK 32.png" group-title="🇭🇰 香港 | Hong Kong",RHK 32
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=rhk32_twn/
-#EXTINF:-1 tvg-name="TVB Asia" tvg-logo="https://logo.catvod.com/TVB Asia.png" group-title="🇭🇰 香港 | Hong Kong",TVB Asia
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbasia/
-#EXTINF:-1 tvg-name="凤凰TV" tvg-logo="https://logo.catvod.com/凤凰TV.png" group-title="🇭🇰 香港 | Hong Kong",凤凰TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=phoenixtv_hd/
-#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://logo.catvod.com/鳳凰資訊.png" group-title="🇭🇰 香港 | Hong Kong",鳳凰資訊
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=phoenixinfo_hd/
-#EXTINF:-1 tvg-name="TVB Entertainment" tvg-logo="https://logo.catvod.com/TVB Entertainment.png" group-title="🇭🇰 香港 | Hong Kong",TVB Entertainment
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbentertainment/
-#EXTINF:-1 tvg-name="TVB Classic" tvg-logo="https://logo.catvod.com/TVB Classic.png" group-title="🇭🇰 香港 | Hong Kong",TVB Classic
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbclassic/
-#EXTINF:-1 tvg-name="Viu6" tvg-logo="https://logo.catvod.com/Viu6.png" group-title="🇭🇰 香港 | Hong Kong",Viu6
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=viusix_twn/
-#EXTINF:-1 tvg-name="TVBS 歡樂台" tvg-logo="https://logo.catvod.com/TVBS 歡樂台.png" group-title="🇹🇼 台灣 | Taiwan",TVBS 歡樂台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbshuanle_twn/
-#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://logo.catvod.com/TVBS HD.png" group-title="🇹🇼 台灣 | Taiwan",TVBS HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbs/
-#EXTINF:-1 tvg-name="中天娱乐 CTI Entertaiment" tvg-logo="https://logo.catvod.com/中天娱乐 CTI Entertaiment.png" group-title="🇹🇼 台灣 | Taiwan",中天娱乐 CTI Entertaiment
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctient/
-#EXTINF:-1 tvg-name="中天综合 CTI Metro" tvg-logo="https://logo.catvod.com/中天综合 CTI Metro.png" group-title="🇹🇼 台灣 | Taiwan",中天综合 CTI Metro
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctizhonghe/
-#EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://logo.catvod.com/中天亚洲台.png" group-title="🇹🇼 台灣 | Taiwan",中天亚洲台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctiasia_twn/
-#EXTINF:-1 tvg-name="台视 TTV HD" tvg-logo="https://logo.catvod.com/台视 TTV HD.png" group-title="🇹🇼 台灣 | Taiwan",台视 TTV HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttv_taiwan/
-#EXTINF:-1 tvg-name="台视综合台" tvg-logo="https://logo.catvod.com/台视综合台.png" group-title="🇹🇼 台灣 | Taiwan",台视综合台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttvzhonghe/
-#EXTINF:-1 tvg-name="中视 HD" tvg-logo="https://logo.catvod.com/中视 HD.png" group-title="🇹🇼 台灣 | Taiwan",中视 HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhongshihd_twn/
-#EXTINF:-1 tvg-name="民视 HD" tvg-logo="https://logo.catvod.com/民视 HD.png" group-title="🇹🇼 台灣 | Taiwan",民视 HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvhd_taiwan/
-#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://logo.catvod.com/民视台湾台.png" group-title="🇹🇼 台灣 | Taiwan",民视台湾台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvtaiwan_twn/
-#EXTINF:-1 tvg-name="华视 CTS HD" tvg-logo="https://logo.catvod.com/华视 CTS HD.png" group-title="🇹🇼 台灣 | Taiwan",华视 CTS HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctshd_twn/
-#EXTINF:-1 tvg-name="公视 CTV" tvg-logo="https://logo.catvod.com/公视 CTV.png" group-title="🇹🇼 台灣 | Taiwan",公视 CTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctv18_twn/
-#EXTINF:-1 tvg-name="八大第一 GTV First" tvg-logo="https://logo.catvod.com/八大第一 GTV First.png" group-title="🇹🇼 台灣 | Taiwan",八大第一 GTV First
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badafirst/
-#EXTINF:-1 tvg-name="八大综合 GTV Metro" tvg-logo="https://logo.catvod.com/八大综合 GTV Metro.png" group-title="🇹🇼 台灣 | Taiwan",八大综合 GTV Metro
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badazhonghe/
-#EXTINF:-1 tvg-name="八大戏剧 GTV Drama" tvg-logo="https://logo.catvod.com/八大戏剧 GTV Drama.png" group-title="🇹🇼 台灣 | Taiwan",八大戏剧 GTV Drama
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badadrama/
-#EXTINF:-1 tvg-name="八大娱乐 GTV Entertainment" tvg-logo="https://logo.catvod.com/八大娱乐 GTV Entertainment.png" group-title="🇹🇼 台灣 | Taiwan",八大娱乐 GTV Entertainment
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=badaentertain/
-#EXTINF:-1 tvg-name="HBO_HD" tvg-logo="https://logo.catvod.com/HBO_HD.png" group-title="🇹🇼 台灣 | Taiwan",HBO_HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbohd_twn/
-#EXTINF:-1 tvg-name="HBO_HITS" tvg-logo="https://logo.catvod.com/HBO_HITS.png" group-title="🇹🇼 台灣 | Taiwan",HBO_HITS
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbohits_twn/
-#EXTINF:-1 tvg-name="HBO Signature Taiwan" tvg-logo="https://logo.catvod.com/HBO Signature Taiwan.png" group-title="🇹🇼 台灣 | Taiwan",HBO Signature Taiwan
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbosignature_twn/
-#EXTINF:-1 tvg-name="Hollywood Movies" tvg-logo="https://logo.catvod.com/Hollywood Movies.png" group-title="🇹🇼 台灣 | Taiwan",Hollywood Movies
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hollywoodmovies_twn/
-#EXTINF:-1 tvg-name="三立台湾 Sanli Taiwan" tvg-logo="https://logo.catvod.com/三立台湾 Sanli Taiwan.png" group-title="🇹🇼 台灣 | Taiwan",三立台湾 Sanli Taiwan
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlitaiwan/
-#EXTINF:-1 tvg-name="三立戏剧台" tvg-logo="https://logo.catvod.com/三立戏剧台.png" group-title="🇹🇼 台灣 | Taiwan",三立戏剧台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlixiju_twn/
-#EXTINF:-1 tvg-name="三立综合 Sanli Metro" tvg-logo="https://logo.catvod.com/三立综合 Sanli Metro.png" group-title="🇹🇼 台灣 | Taiwan",三立综合 Sanli Metro
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlizhonghe/
-#EXTINF:-1 tvg-name="三立都会台" tvg-logo="https://logo.catvod.com/三立都会台.png" group-title="🇹🇼 台灣 | Taiwan",三立都会台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sanlidouhui_twn/
-#EXTINF:-1 tvg-name="东森综合 ETTV Metro" tvg-logo="https://logo.catvod.com/东森综合 ETTV Metro.png" group-title="🇹🇼 台灣 | Taiwan",东森综合 ETTV Metro
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvzhonghe/
-#EXTINF:-1 tvg-name="东森戏剧 ETTV Drama" tvg-logo="https://logo.catvod.com/东森戏剧 ETTV Drama.png" group-title="🇹🇼 台灣 | Taiwan",东森戏剧 ETTV Drama
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvdrama/
-#EXTINF:-1 tvg-name="公视2" tvg-logo="https://logo.catvod.com/公视2.png" group-title="🇹🇼 台灣 | Taiwan",公视2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctv2_twn/
-#EXTINF:-1 tvg-name="大爱1台" tvg-logo="https://logo.catvod.com/大爱1台.png" group-title="🇹🇼 台灣 | Taiwan",大爱1台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=daai_twn/
-#EXTINF:-1 tvg-name="龙华戏剧 Lunghua Drama" tvg-logo="https://logo.catvod.com/龙华戏剧 Lunghua Drama.png" group-title="🇹🇼 台灣 | Taiwan",龙华戏剧 Lunghua Drama
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuaxiju_twn/
-#EXTINF:-1 tvg-name="龙华经典台" tvg-logo="https://logo.catvod.com/龙华经典台.png" group-title="🇹🇼 台灣 | Taiwan",龙华经典台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuajingdian_twn/
-#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://logo.catvod.com/龙华偶像.png" group-title="🇹🇼 台灣 | Taiwan",龙华偶像
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuaidol_twn/
-#EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://logo.catvod.com/AXN Taiwan.png" group-title="🇹🇼 台灣 | Taiwan",AXN Taiwan
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=axn_twn/
-#EXTINF:-1 tvg-name="靖天国际台" tvg-logo="https://logo.catvod.com/靖天国际台.png" group-title="🇹🇼 台灣 | Taiwan",靖天国际台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jingtianintl_twn/
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://logo.catvod.com/CINEMAX.png" group-title="🇹🇼 台灣 | Taiwan",CINEMAX
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cinemax_twn/
-#EXTINF:-1 tvg-name="年代News" tvg-logo="https://logo.catvod.com/年代News.png" group-title="🇹🇼 台灣 | Taiwan",年代News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=niandainews_twn/
-#EXTINF:-1 tvg-name="纬来日本台" tvg-logo="https://logo.catvod.com/纬来日本台.png" group-title="🇹🇼 台灣 | Taiwan",纬来日本台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandjapan/
-#EXTINF:-1 tvg-name="纬来Movie台" tvg-logo="https://logo.catvod.com/纬来Movie台.png" group-title="🇹🇼 台灣 | Taiwan",纬来Movie台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandmovie/
-#EXTINF:-1 tvg-name="纬来Sports台" tvg-logo="https://logo.catvod.com/纬来Sports台.png" group-title="🇹🇼 台灣 | Taiwan",纬来Sports台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandsport/
-#EXTINF:-1 tvg-name="纬来综合台" tvg-logo="https://logo.catvod.com/纬来综合台.png" group-title="🇹🇼 台灣 | Taiwan",纬来综合台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandzonghe/
-#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://logo.catvod.com/纬来育乐.png" group-title="🇹🇼 台灣 | Taiwan",纬来育乐
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandmax/
-#EXTINF:-1 tvg-name="纬来精彩" tvg-logo="https://logo.catvod.com/纬来精彩.png" group-title="🇹🇼 台灣 | Taiwan",纬来精彩
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=videolandtv/
-#EXTINF:-1 tvg-name="DW (Deutsch)" tvg-logo="https://logo.catvod.com/DW (Deutsch).png" group-title="🇹🇼 台灣 | Taiwan",DW (Deutsch)
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dw_twn/
-#EXTINF:-1 tvg-name="好消息 2" tvg-logo="https://logo.catvod.com/好消息 2.png" group-title="🇹🇼 台灣 | Taiwan",好消息 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=good2_twn/
-#EXTINF:-1 tvg-name="大爱2台" tvg-logo="https://logo.catvod.com/大爱2台.png" group-title="🇹🇼 台灣 | Taiwan",大爱2台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=daai2_twn/
-#EXTINF:-1 tvg-name="亚洲美食" tvg-logo="https://logo.catvod.com/亚洲美食.png" group-title="🇹🇼 台灣 | Taiwan",亚洲美食
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=afc_twn/
-#EXTINF:-1 tvg-name="亚洲旅游 TLC Asia" tvg-logo="https://logo.catvod.com/亚洲旅游 TLC Asia.png" group-title="🇹🇼 台灣 | Taiwan",亚洲旅游 TLC Asia
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tlc_twn/
-#EXTINF:-1 tvg-name="东森Movie ETTV Movie" tvg-logo="https://logo.catvod.com/东森Movie ETTV Movie.png" group-title="🇹🇼 台灣 | Taiwan",东森Movie ETTV Movie
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvmovie/
-#EXTINF:-1 tvg-name="阿里郎 Arirang" tvg-logo="https://logo.catvod.com/阿里郎 Arirang.png" group-title="🇹🇼 台灣 | Taiwan",阿里郎 Arirang
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=arirang_twn/
-#EXTINF:-1 tvg-name="博斯运动 1" tvg-logo="https://logo.catvod.com/博斯运动 1.png" group-title="🇹🇼 台灣 | Taiwan",博斯运动 1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosisport1_twn/
-#EXTINF:-1 tvg-name="博斯运动 2" tvg-logo="https://logo.catvod.com/博斯运动 2.png" group-title="🇹🇼 台灣 | Taiwan",博斯运动 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosisport2_twn/
-#EXTINF:-1 tvg-name="博斯高球2 HD" tvg-logo="https://logo.catvod.com/博斯高球2 HD.png" group-title="🇹🇼 台灣 | Taiwan",博斯高球2 HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosigolf2_twn/
-#EXTINF:-1 tvg-name="博斯网球 HD" tvg-logo="https://logo.catvod.com/博斯网球 HD.png" group-title="🇹🇼 台灣 | Taiwan",博斯网球 HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bositennis_twn/
-#EXTINF:-1 tvg-name="东森洋片 ETTV Western" tvg-logo="https://logo.catvod.com/东森洋片 ETTV Western.png" group-title="🇹🇼 台灣 | Taiwan",东森洋片 ETTV Western
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvwestern/
-#EXTINF:-1 tvg-name="龙华洋片 Lunghua Western" tvg-logo="https://logo.catvod.com/龙华洋片 Lunghua Western.png" group-title="🇹🇼 台灣 | Taiwan",龙华洋片 Lunghua Western
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuawestern_twn/
-#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://logo.catvod.com/博斯无限.png" group-title="🇹🇼 台灣 | Taiwan",博斯无限
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosiunlimited_twn/
-#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://logo.catvod.com/MTV Live.png" group-title="🇹🇼 台灣 | Taiwan",MTV Live
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mtvhd_twn/
-#EXTINF:-1 tvg-name="龙详时代" tvg-logo="https://logo.catvod.com/龙详时代.png" group-title="🇹🇼 台灣 | Taiwan",龙详时代
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn/
-#EXTINF:-1 tvg-name="EYETV 旅游" tvg-logo="https://logo.catvod.com/EYETV 旅游.png" group-title="🇹🇼 台灣 | Taiwan",EYETV 旅游
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eyetvtravel_twn/
-#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://logo.catvod.com/靖天卡通台.png" group-title="🇹🇼 台灣 | Taiwan",靖天卡通台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn/
-#EXTINF:-1 tvg-name="EYETV 戏剧" tvg-logo="https://logo.catvod.com/EYETV 戏剧.png" group-title="🇹🇼 台灣 | Taiwan",EYETV 戏剧
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eyetvxiju_twn/
-#EXTINF:-1 tvg-name="TV中文台 Star Movies Chinese" tvg-logo="https://logo.catvod.com/TV中文台 Star Movies Chinese.png" group-title="🇹🇼 台灣 | Taiwan",TV中文台 Star Movies Chinese
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=weishichinese_twn/
-#EXTINF:-1 tvg-name="东森幼幼 Yoyo TV" tvg-logo="https://logo.catvod.com/东森幼幼 Yoyo TV.png" group-title="🇹🇼 台灣 | Taiwan",东森幼幼 Yoyo TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=yoyo_twn/
-#EXTINF:-1 tvg-name="美亚Movie" tvg-logo="https://logo.catvod.com/美亚Movie.png" group-title="🇹🇼 台灣 | Taiwan",美亚Movie
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=meiyamovie_twn/
-#EXTINF:-1 tvg-name="爱尔达戏剧台" tvg-logo="https://logo.catvod.com/爱尔达戏剧台.png" group-title="🇹🇼 台灣 | Taiwan",爱尔达戏剧台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltadrama_twn/
-#EXTINF:-1 tvg-name="TVBS News 新聞台" tvg-logo="https://logo.catvod.com/TVBS News 新聞台.png" group-title="🇹🇼 台灣 | Taiwan",TVBS News 新聞台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbs_n/
-#EXTINF:-1 tvg-name="Asia Food Network" tvg-logo="https://logo.catvod.com/Asia Food Network.png" group-title="🇹🇼 台灣 | Taiwan",Asia Food Network
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Afc/
-#EXTINF:-1 tvg-name="東森新聞 ETTV News" tvg-logo="https://logo.catvod.com/東森新聞 ETTV News.png" group-title="🇹🇼 台灣 | Taiwan",東森新聞 ETTV News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvnews/
-#EXTINF:-1 tvg-name="東森財經新聞 ETTV Business" tvg-logo="https://logo.catvod.com/東森財經新聞 ETTV Business.png" group-title="🇹🇼 台灣 | Taiwan",東森財經新聞 ETTV Business
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn/
-#EXTINF:-1 tvg-name="中天新聞 CTI News" tvg-logo="https://logo.catvod.com/中天新聞 CTI News.png" group-title="🇹🇼 台灣 | Taiwan",中天新聞 CTI News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctinews/
-#EXTINF:-1 tvg-name="非凡新聞台" tvg-logo="https://logo.catvod.com/非凡新聞台.png" group-title="🇹🇼 台灣 | Taiwan",非凡新聞台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=feifannews_twn/
-#EXTINF:-1 tvg-name="台視新聞台 TTV News" tvg-logo="https://logo.catvod.com/台視新聞台 TTV News.png" group-title="🇹🇼 台灣 | Taiwan",台視新聞台 TTV News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttvnews_twn/
-#EXTINF:-1 tvg-name="EltaSports1台" tvg-logo="https://logo.catvod.com/EltaSports1台.png" group-title="🇹🇼 台灣 | Taiwan",EltaSports1台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport1_twn/
-#EXTINF:-1 tvg-name="Elta體育2台" tvg-logo="https://logo.catvod.com/Elta體育2台.png" group-title="🇹🇼 台灣 | Taiwan",Elta體育2台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport2_twn/
-#EXTINF:-1 tvg-name="Elta體育3台" tvg-logo="https://logo.catvod.com/Elta體育3台.png" group-title="🇹🇼 台灣 | Taiwan",Elta體育3台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport3_twn/
-#EXTINF:-1 tvg-name="民視新聞台 FTV News" tvg-logo="https://logo.catvod.com/民視新聞台 FTV News.png" group-title="🇹🇼 台灣 | Taiwan",民視新聞台 FTV News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan/
-#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://logo.catvod.com/寰宇新聞台.png" group-title="🇹🇼 台灣 | Taiwan",寰宇新聞台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn/
-#EXTINF:-1 tvg-name="中視新聞台" tvg-logo="https://logo.catvod.com/中視新聞台.png" group-title="🇹🇼 台灣 | Taiwan",中視新聞台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhongshinews_twn/
-#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://logo.catvod.com/DAZN 1.png" group-title="🇹🇼 台灣 | Taiwan",DAZN 1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dazn1_twn/
-#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://logo.catvod.com/DAZN 2.png" group-title="🇹🇼 台灣 | Taiwan",DAZN 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dazn2_twn/
-#EXTINF:-1 tvg-name="探索频道" tvg-logo="https://logo.catvod.com/探索频道.png" group-title="🇹🇼 台灣 | Taiwan",探索频道
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=discoverych_twn/
-#EXTINF:-1 tvg-name="NHK-総合-2" tvg-logo="https://logo.catvod.com/NHK-総合-2.png" group-title="🇯🇵 日本 | Japan",NHK-総合-2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkg_japan/
-#EXTINF:-1 tvg-name="NHK-E" tvg-logo="https://logo.catvod.com/NHK-E.png" group-title="🇯🇵 日本 | Japan",NHK-E
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhke_japan/
-#EXTINF:-1 tvg-name="テレビ朝日 Asahi TV" tvg-logo="https://logo.catvod.com/テレビ朝日 Asahi TV.png" group-title="🇯🇵 日本 | Japan",テレビ朝日 Asahi TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=asahitv_japan/
-#EXTINF:-1 tvg-name="JET 綜合" tvg-logo="https://logo.catvod.com/JET 綜合.png" group-title="🇯🇵 日本 | Japan",JET 綜合
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jettv_japan/
-#EXTINF:-1 tvg-name="テレビ東京 Tokyo TV" tvg-logo="https://logo.catvod.com/テレビ東京 Tokyo TV.png" group-title="🇯🇵 日本 | Japan",テレビ東京 Tokyo TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tokyotv_japan/
-#EXTINF:-1 tvg-name="TOKYOMX" tvg-logo="https://logo.catvod.com/TOKYOMX.png" group-title="🇯🇵 日本 | Japan",TOKYOMX
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tokyomx_japan/
-#EXTINF:-1 tvg-name="NHKBS1" tvg-logo="https://logo.catvod.com/NHKBS1.png" group-title="🇯🇵 日本 | Japan",NHKBS1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkbs1_japan/
-#EXTINF:-1 tvg-name="NHKBSプレミア Premium" tvg-logo="https://logo.catvod.com/NHKBSプレミア Premium.png" group-title="🇯🇵 日本 | Japan",NHKBSプレミア Premium
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkpremium_japan/
-#EXTINF:-1 tvg-name="BSジャパン 181" tvg-logo="https://logo.catvod.com/BSジャパン 181.png" group-title="🇯🇵 日本 | Japan",BSジャパン 181
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bs181_japan/
-#EXTINF:-1 tvg-name="BSフジ BS Fuji" tvg-logo="https://logo.catvod.com/BSフジ BS Fuji.png" group-title="🇯🇵 日本 | Japan",BSフジ BS Fuji
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bsfuji_japan/
-#EXTINF:-1 tvg-name="CNA Japan" tvg-logo="https://logo.catvod.com/CNA Japan.png" group-title="🇯🇵 日本 | Japan",CNA Japan
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna_japan/
-#EXTINF:-1 tvg-name="BS-TBS" tvg-logo="https://logo.catvod.com/BS-TBS.png" group-title="🇯🇵 日本 | Japan",BS-TBS
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bstbs_japan/
-#EXTINF:-1 tvg-name="NHK Oaska" tvg-logo="https://logo.catvod.com/NHK Oaska.png" group-title="🇯🇵 日本 | Japan",NHK Oaska
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkosaka_japan/
-#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://logo.catvod.com/NHK World.png" group-title="🇯🇵 日本 | Japan",NHK World
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkworld_japan/
-#EXTINF:-1 tvg-name="Arirang HD" tvg-logo="https://logo.catvod.com/Arirang HD.png" group-title="🇰🇷 韓國 | South Korea",Arirang HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=arirang_twn/
-#EXTINF:-1 tvg-name="Yonhap News" tvg-logo="https://logo.catvod.com/Yonhap News.png" group-title="🇰🇷 韓國 | South Korea",Yonhap News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=yonhapnews_korea/
-#EXTINF:-1 tvg-name="CBS" tvg-logo="https://logo.catvod.com/CBS.png" group-title="🇰🇷 韓國 | South Korea",CBS
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cbs_korea/
-#EXTINF:-1 tvg-name="EBS 1" tvg-logo="https://logo.catvod.com/EBS 1.png" group-title="🇰🇷 韓國 | South Korea",EBS 1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ebs1_korea/
-#EXTINF:-1 tvg-name="EBS2" tvg-logo="https://logo.catvod.com/EBS2.png" group-title="🇰🇷 韓國 | South Korea",EBS2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ebs2_korea/
-#EXTINF:-1 tvg-name="EBS Plus2" tvg-logo="https://logo.catvod.com/EBS Plus2.png" group-title="🇰🇷 韓國 | South Korea",EBS Plus2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ebsplus2_korea/
-#EXTINF:-1 tvg-name="SBS Plus" tvg-logo="https://logo.catvod.com/SBS Plus.png" group-title="🇰🇷 韓國 | South Korea",SBS Plus
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sbsplus_korea/
-#EXTINF:-1 tvg-name="YTN" tvg-logo="https://logo.catvod.com/YTN.png" group-title="🇰🇷 韓國 | South Korea",YTN
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ytn_korea/
-#EXTINF:-1 tvg-name="KBS World 24" tvg-logo="https://logo.catvod.com/KBS World 24.png" group-title="🇰🇷 韓國 | South Korea",KBS World 24
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=kbsworld24_korea/
-#EXTINF:-1 tvg-name="YTN Science" tvg-logo="https://logo.catvod.com/YTN Science.png" group-title="🇰🇷 韓國 | South Korea",YTN Science
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ytnscience_korea/
-#EXTINF:-1 tvg-name="YTN Korean" tvg-logo="https://logo.catvod.com/YTN Korean.png" group-title="🇰🇷 韓國 | South Korea",YTN Korean
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ytnkorean_korea/
-#EXTINF:-1 tvg-name="YTN DMB" tvg-logo="https://logo.catvod.com/YTN DMB.png" group-title="🇰🇷 韓國 | South Korea",YTN DMB
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ytndmb_korea/
-#EXTINF:-1 tvg-name="Apps TV" tvg-logo="https://logo.catvod.com/Apps TV.png" group-title="🇰🇷 韓國 | South Korea",Apps TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=appongoogle_korea/
-#EXTINF:-1 tvg-name="All the Kpop" tvg-logo="https://logo.catvod.com/All the Kpop.png" group-title="🇰🇷 韓國 | South Korea",All the Kpop
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=allthekpop_korea/
-#EXTINF:-1 tvg-name="J the Kpop" tvg-logo="https://logo.catvod.com/J the Kpop.png" group-title="🇰🇷 韓國 | South Korea",J the Kpop
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jthekpop_korea/
-#EXTINF:-1 tvg-name="EBS Kids" tvg-logo="https://logo.catvod.com/EBS Kids.png" group-title="🇰🇷 韓國 | South Korea",EBS Kids
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ebskids_korea/
-#EXTINF:-1 tvg-name="CGNTV" tvg-logo="https://logo.catvod.com/CGNTV.png" group-title="🇰🇷 韓國 | South Korea",CGNTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cgntv_korea/
-#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://logo.catvod.com/Channel 5.png" group-title="🇸🇬 新加坡 | Singapore",Channel 5
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Channel5HD/
-#EXTINF:-1 tvg-name="Channel 5 backup" tvg-logo="https://logo.catvod.com/Channel 5 backup.png" group-title="🇸🇬 新加坡 | Singapore",Channel 5 backup
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_ch5/
-#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://logo.catvod.com/Channel 8.png" group-title="🇸🇬 新加坡 | Singapore",Channel 8
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Channel8HD/
-#EXTINF:-1 tvg-name="Channel 8 backup" tvg-logo="https://logo.catvod.com/Channel 8 backup.png" group-title="🇸🇬 新加坡 | Singapore",Channel 8 backup
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_ch8/
-#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://logo.catvod.com/Channel U.png" group-title="🇸🇬 新加坡 | Singapore",Channel U
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ChannelU/
-#EXTINF:-1 tvg-name="Channel U backup" tvg-logo="https://logo.catvod.com/Channel U backup.png" group-title="🇸🇬 新加坡 | Singapore",Channel U backup
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_chU/
-#EXTINF:-1 tvg-name="Suria" tvg-logo="https://logo.catvod.com/Suria.png" group-title="🇸🇬 新加坡 | Singapore",Suria
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Suria/
-#EXTINF:-1 tvg-name="Suria backup" tvg-logo="https://logo.catvod.com/Suria backup.png" group-title="🇸🇬 新加坡 | Singapore",Suria backup
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_Suria/
-#EXTINF:-1 tvg-name="Vasantham" tvg-logo="https://logo.catvod.com/Vasantham.png" group-title="🇸🇬 新加坡 | Singapore",Vasantham
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vasantham/
-#EXTINF:-1 tvg-name="Vasantham backup" tvg-logo="https://logo.catvod.com/Vasantham backup.png" group-title="🇸🇬 新加坡 | Singapore",Vasantham backup
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_Vasantham/
-#EXTINF:-1 tvg-name="CNA backup1" tvg-logo="https://logo.catvod.com/CNA backup1.png" group-title="🇸🇬 新加坡 | Singapore",CNA backup1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mewatch_cna/
-#EXTINF:-1 tvg-name="CNA backup2" tvg-logo="https://logo.catvod.com/CNA backup2.png" group-title="🇸🇬 新加坡 | Singapore",CNA backup2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna_twn/
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://logo.catvod.com/CNN.png" group-title="🇸🇬 新加坡 | Singapore",CNN
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnn/
-#EXTINF:-1 tvg-name="CNN backup" tvg-logo="https://logo.catvod.com/CNN backup.png" group-title="🇸🇬 新加坡 | Singapore",CNN backup
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cnn_twn/
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://logo.catvod.com/CNA.png" group-title="🇸🇬 新加坡 | Singapore",CNA
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna/
-#EXTINF:-1 tvg-name="TV1" tvg-logo="https://logo.catvod.com/TV1.png" group-title="🇲🇾 馬來西亞 | Malaysia",TV1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV1/
-#EXTINF:-1 tvg-name="TV1 backup" tvg-logo="https://logo.catvod.com/TV1 backup.png" group-title="🇲🇾 馬來西亞 | Malaysia",TV1 backup
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV1_backup/
-#EXTINF:-1 tvg-name="TV2" tvg-logo="https://logo.catvod.com/TV2.png" group-title="🇲🇾 馬來西亞 | Malaysia",TV2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV2/
-#EXTINF:-1 tvg-name="TV3" tvg-logo="https://logo.catvod.com/TV3.png" group-title="🇲🇾 馬來西亞 | Malaysia",TV3
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV3/
-#EXTINF:-1 tvg-name="TV3 SD" tvg-logo="https://logo.catvod.com/TV3 SD.png" group-title="🇲🇾 馬來西亞 | Malaysia",TV3 SD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV3_mega/
-#EXTINF:-1 tvg-name="TV3 backup" tvg-logo="https://logo.catvod.com/TV3 backup.png" group-title="🇲🇾 馬來西亞 | Malaysia",TV3 backup
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV3_backup/
-#EXTINF:-1 tvg-name="TV3 backup2" tvg-logo="https://logo.catvod.com/TV3 backup2.png" group-title="🇲🇾 馬來西亞 | Malaysia",TV3 backup2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV3_1/
-#EXTINF:-1 tvg-name="TV5" tvg-logo="https://logo.catvod.com/TV5.png" group-title="🇲🇾 馬來西亞 | Malaysia",TV5
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV5/
-#EXTINF:-1 tvg-name="NTV7" tvg-logo="https://logo.catvod.com/NTV7.png" group-title="🇲🇾 馬來西亞 | Malaysia",NTV7
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=NTV7/
-#EXTINF:-1 tvg-name="8TV" tvg-logo="https://logo.catvod.com/8TV.png" group-title="🇲🇾 馬來西亞 | Malaysia",8TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV8/
-#EXTINF:-1 tvg-name="TV9" tvg-logo="https://logo.catvod.com/TV9.png" group-title="🇲🇾 馬來西亞 | Malaysia",TV9
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TV9/
-#EXTINF:-1 tvg-name="Al-Hijrah" tvg-logo="https://logo.catvod.com/Al-Hijrah.png" group-title="🇲🇾 馬來西亞 | Malaysia",Al-Hijrah
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Alhijrah/
-#EXTINF:-1 tvg-name="Quran" tvg-logo="https://logo.catvod.com/Quran.png" group-title="🇲🇾 馬來西亞 | Malaysia",Quran
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=quran_mido/
-#EXTINF:-1 tvg-name="Sunnah" tvg-logo="https://logo.catvod.com/Sunnah.png" group-title="🇲🇾 馬來西亞 | Malaysia",Sunnah
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sunnah_mido/
-#EXTINF:-1 tvg-name="Bernama" tvg-logo="https://logo.catvod.com/Bernama.png" group-title="🇲🇾 馬來西亞 | Malaysia",Bernama
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bernama/
-#EXTINF:-1 tvg-name="Awani" tvg-logo="https://logo.catvod.com/Awani.png" group-title="🇲🇾 馬來西亞 | Malaysia",Awani
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Awani/
-#EXTINF:-1 tvg-name="Ceria" tvg-logo="https://logo.catvod.com/Ceria.png" group-title="🇲🇾 馬來西亞 | Malaysia",Ceria
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ceria/
-#EXTINF:-1 tvg-name="Oasis" tvg-logo="https://logo.catvod.com/Oasis.png" group-title="🇲🇾 馬來西亞 | Malaysia",Oasis
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Oasis/
-#EXTINF:-1 tvg-name="Boo" tvg-logo="https://logo.catvod.com/Boo.png" group-title="🇲🇾 馬來西亞 | Malaysia",Boo
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Boo/
-#EXTINF:-1 tvg-name="Citra" tvg-logo="https://logo.catvod.com/Citra.png" group-title="🇲🇾 馬來西亞 | Malaysia",Citra
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAcitra1/
-#EXTINF:-1 tvg-name="Citra backup" tvg-logo="https://logo.catvod.com/Citra backup.png" group-title="🇲🇾 馬來西亞 | Malaysia",Citra backup
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAcitra1/
-#EXTINF:-1 tvg-name="Prima" tvg-logo="https://logo.catvod.com/Prima.png" group-title="🇲🇾 馬來西亞 | Malaysia",Prima
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Prima/
-#EXTINF:-1 tvg-name="Prima backup" tvg-logo="https://logo.catvod.com/Prima backup.png" group-title="🇲🇾 馬來西亞 | Malaysia",Prima backup
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAprima/
-#EXTINF:-1 tvg-name="Ria" tvg-logo="https://logo.catvod.com/Ria.png" group-title="🇲🇾 馬來西亞 | Malaysia",Ria
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ria-0/
-#EXTINF:-1 tvg-name="Ria-3" tvg-logo="https://logo.catvod.com/Ria-3.png" group-title="🇲🇾 馬來西亞 | Malaysia",Ria-3
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ria_backup/
-#EXTINF:-1 tvg-name="Awesome TV" tvg-logo="https://logo.catvod.com/Awesome TV.png" group-title="🇲🇾 馬來西亞 | Malaysia",Awesome TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dsangat/
-#EXTINF:-1 tvg-name="Aura" tvg-logo="https://logo.catvod.com/Aura.png" group-title="🇲🇾 馬來西亞 | Malaysia",Aura
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Aura/
-#EXTINF:-1 tvg-name="Sensasi" tvg-logo="https://logo.catvod.com/Sensasi.png" group-title="🇲🇾 馬來西亞 | Malaysia",Sensasi
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Sensasi/
-#EXTINF:-1 tvg-name="Siar" tvg-logo="https://logo.catvod.com/Siar.png" group-title="🇲🇾 馬來西亞 | Malaysia",Siar
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Siar/
-#EXTINF:-1 tvg-name="Rania" tvg-logo="https://logo.catvod.com/Rania.png" group-title="🇲🇾 馬來西亞 | Malaysia",Rania
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rania/
-#EXTINF:-1 tvg-name="WION" tvg-logo="https://logo.catvod.com/WION.png" group-title="🇲🇾 馬來西亞 | Malaysia",WION
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Wion/
-#EXTINF:-1 tvg-name="Astro MTV" tvg-logo="https://logo.catvod.com/Astro MTV.png" group-title="🇲🇾 馬來西亞 | Malaysia",Astro MTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AstroMTV/
-#EXTINF:-1 tvg-name="Arena" tvg-logo="https://logo.catvod.com/Arena.png" group-title="🇲🇾 馬來西亞 | Malaysia",Arena
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Arena/
-#EXTINF:-1 tvg-name="Arena 2" tvg-logo="https://logo.catvod.com/Arena 2.png" group-title="🇲🇾 馬來西亞 | Malaysia",Arena 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Arena2/
-#EXTINF:-1 tvg-name="Arena Bola 1" tvg-logo="https://logo.catvod.com/Arena Bola 1.png" group-title="🇲🇾 馬來西亞 | Malaysia",Arena Bola 1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bolaarena1/
-#EXTINF:-1 tvg-name="Arena Bola 2" tvg-logo="https://logo.catvod.com/Arena Bola 2.png" group-title="🇲🇾 馬來西亞 | Malaysia",Arena Bola 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bolaarena2/
-#EXTINF:-1 tvg-name="NatGeo_Wild HD" tvg-logo="https://logo.catvod.com/NatGeo_Wild HD.png" group-title="🇲🇾 馬來西亞 | Malaysia",NatGeo_Wild HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeowild/
-#EXTINF:-1 tvg-name="RTM Sports HD" tvg-logo="https://logo.catvod.com/RTM Sports HD.png" group-title="🇲🇾 馬來西亞 | Malaysia",RTM Sports HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rtmsport/
-#EXTINF:-1 tvg-name="Animal_Planet" tvg-logo="https://logo.catvod.com/Animal_Planet.png" group-title="🇲🇾 馬來西亞 | Malaysia",Animal_Planet
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AnimalPlanet/
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://logo.catvod.com/HBO Family.png" group-title="🇲🇾 馬來西亞 | Malaysia",HBO Family
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbofamily/
-#EXTINF:-1 tvg-name="Showcase" tvg-logo="https://logo.catvod.com/Showcase.png" group-title="🇲🇾 馬來西亞 | Malaysia",Showcase
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Showcase/
-#EXTINF:-1 tvg-name="RTM Asean" tvg-logo="https://logo.catvod.com/RTM Asean.png" group-title="🇲🇾 馬來西亞 | Malaysia",RTM Asean
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rtmasean/
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://logo.catvod.com/HGTV.png" group-title="🇲🇾 馬來西亞 | Malaysia",HGTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=HGTV/
-#EXTINF:-1 tvg-name="Astro Badminton" tvg-logo="https://logo.catvod.com/Astro Badminton.png" group-title="🇲🇾 馬來西亞 | Malaysia",Astro Badminton
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_badminton1/
-#EXTINF:-1 tvg-name="Astro Badminton 2" tvg-logo="https://logo.catvod.com/Astro Badminton 2.png" group-title="🇲🇾 馬來西亞 | Malaysia",Astro Badminton 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_badminton2/
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://logo.catvod.com/TLC.png" group-title="🇲🇾 馬來西亞 | Malaysia",TLC
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tlc/
-#EXTINF:-1 tvg-name="Foodnetwork Hd" tvg-logo="https://logo.catvod.com/Foodnetwork Hd.png" group-title="🇲🇾 馬來西亞 | Malaysia",Foodnetwork Hd
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Foodnetwork/
-#EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://logo.catvod.com/Axn HD.png" group-title="🇲🇾 馬來西亞 | Malaysia",Axn HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Axn/
-#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://logo.catvod.com/HBO HD.png" group-title="🇲🇾 馬來西亞 | Malaysia",HBO HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbo/
-#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://logo.catvod.com/HBO Signature.png" group-title="🇲🇾 馬來西亞 | Malaysia",HBO Signature
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbosignature/
-#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://logo.catvod.com/HBO Hits.png" group-title="🇲🇾 馬來西亞 | Malaysia",HBO Hits
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbohitshd/
-#EXTINF:-1 tvg-name="Dreamworks" tvg-logo="https://logo.catvod.com/Dreamworks.png" group-title="🇲🇾 馬來西亞 | Malaysia",Dreamworks
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dreamworks/
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://logo.catvod.com/Nickelodeon.png" group-title="🇲🇾 馬來西亞 | Malaysia",Nickelodeon
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickelodeon/
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://logo.catvod.com/Nick Jr.png" group-title="🇲🇾 馬來西亞 | Malaysia",Nick Jr
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickjr/
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://logo.catvod.com/Cartoon Network.png" group-title="🇲🇾 馬來西亞 | Malaysia",Cartoon Network
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cn/
-#EXTINF:-1 tvg-name="Asia Food Network" tvg-logo="https://logo.catvod.com/Asia Food Network.png" group-title="🇲🇾 馬來西亞 | Malaysia",Asia Food Network
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Afc/
-#EXTINF:-1 tvg-name="Animal Planet (Eng)" tvg-logo="https://logo.catvod.com/Animal Planet (Eng).png" group-title="🇲🇾 馬來西亞 | Malaysia",Animal Planet (Eng)
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AnimalPlanet/
-#EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://logo.catvod.com/NatGeo Wild HD.png" group-title="🇲🇾 馬來西亞 | Malaysia",NatGeo Wild HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeowild/
-#EXTINF:-1 tvg-name="TvN" tvg-logo="https://logo.catvod.com/TvN.png" group-title="🇲🇾 馬來西亞 | Malaysia",TvN
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TVN/
-#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://logo.catvod.com/KBS World.png" group-title="🇲🇾 馬來西亞 | Malaysia",KBS World
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=KBS/
-#EXTINF:-1 tvg-name="Sony HD" tvg-logo="https://logo.catvod.com/Sony HD.png" group-title="🇲🇾 馬來西亞 | Malaysia",Sony HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=SetOne/
-#EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://logo.catvod.com/tvN Movie.png" group-title="🇲🇾 馬來西亞 | Malaysia",tvN Movie
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvnmovie/
-#EXTINF:-1 tvg-name="Astrol Kplus" tvg-logo="https://logo.catvod.com/Astrol Kplus.png" group-title="🇲🇾 馬來西亞 | Malaysia",Astrol Kplus
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Kplus/
-#EXTINF:-1 tvg-name="One" tvg-logo="https://logo.catvod.com/One.png" group-title="🇲🇾 馬來西亞 | Malaysia",One
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=One/
-#EXTINF:-1 tvg-name="AEC" tvg-logo="https://logo.catvod.com/AEC.png" group-title="🇲🇾 馬來西亞 | Malaysia",AEC
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AEC/
-#EXTINF:-1 tvg-name="AOD" tvg-logo="https://logo.catvod.com/AOD.png" group-title="🇲🇾 馬來西亞 | Malaysia",AOD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Aodhd/
-#EXTINF:-1 tvg-name="华丽台 HD (Wah Lai Toi)" tvg-logo="https://logo.catvod.com/华丽台 HD (Wah Lai Toi).png" group-title="🇲🇾 馬來西亞 | Malaysia",华丽台 HD (Wah Lai Toi)
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Wlt/
-#EXTINF:-1 tvg-name="欢喜台 HD(Hua Hee Tai)" tvg-logo="https://logo.catvod.com/欢喜台 HD(Hua Hee Tai).png" group-title="🇲🇾 馬來西亞 | Malaysia",欢喜台 HD(Hua Hee Tai)
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Huahee/
-#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://logo.catvod.com/Astro QJ.png" group-title="🇲🇾 馬來西亞 | Malaysia",Astro QJ
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Quanjia/
-#EXTINF:-1 tvg-name="TVB Jade" tvg-logo="https://logo.catvod.com/TVB Jade.png" group-title="🇲🇾 馬來西亞 | Malaysia",TVB Jade
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbjade/
-#EXTINF:-1 tvg-name="爱奇艺 iQiyi" tvg-logo="https://logo.catvod.com/爱奇艺 iQiyi.png" group-title="🇲🇾 馬來西亞 | Malaysia",爱奇艺 iQiyi
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Qiyi/
-#EXTINF:-1 tvg-name="TVB 星河台  Xing He" tvg-logo="https://logo.catvod.com/TVB 星河台  Xing He.png" group-title="🇲🇾 馬來西亞 | Malaysia",TVB 星河台  Xing He
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Xinhe/
-#EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://logo.catvod.com/Discovery Asia.png" group-title="🇲🇾 馬來西亞 | Malaysia",Discovery Asia
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Discoveryasia/
-#EXTINF:-1 tvg-name="Dmax" tvg-logo="https://logo.catvod.com/Dmax.png" group-title="🇲🇾 馬來西亞 | Malaysia",Dmax
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dmax/
-#EXTINF:-1 tvg-name="TVB Asia" tvg-logo="https://logo.catvod.com/TVB Asia.png" group-title="🇲🇾 馬來西亞 | Malaysia",TVB Asia
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbasia/
-#EXTINF:-1 tvg-name="TVB Entertainment" tvg-logo="https://logo.catvod.com/TVB Entertainment.png" group-title="🇲🇾 馬來西亞 | Malaysia",TVB Entertainment
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbentertainment/
-#EXTINF:-1 tvg-name="TVB Classic" tvg-logo="https://logo.catvod.com/TVB Classic.png" group-title="🇲🇾 馬來西亞 | Malaysia",TVB Classic
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvbclassic/
-#EXTINF:-1 tvg-name="Celestial Classic" tvg-logo="https://logo.catvod.com/Celestial Classic.png" group-title="🇲🇾 馬來西亞 | Malaysia",Celestial Classic
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Celestial2/
-#EXTINF:-1 tvg-name="Celestial Movies HD" tvg-logo="https://logo.catvod.com/Celestial Movies HD.png" group-title="🇲🇾 馬來西亞 | Malaysia",Celestial Movies HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Celestial/
-#EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://logo.catvod.com/Rock Actions.png" group-title="🇲🇾 馬來西亞 | Malaysia",Rock Actions
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockaction/
-#EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://logo.catvod.com/Rock Entertainment.png" group-title="🇲🇾 馬來西亞 | Malaysia",Rock Entertainment
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockentertain/
-#EXTINF:-1 tvg-name="Bollyone" tvg-logo="https://logo.catvod.com/Bollyone.png" group-title="🇲🇾 馬來西亞 | Malaysia",Bollyone
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bollyone/
-#EXTINF:-1 tvg-name="Astro Sunmusic" tvg-logo="https://logo.catvod.com/Astro Sunmusic.png" group-title="🇲🇾 馬來西亞 | Malaysia",Astro Sunmusic
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Sunmusic/
-#EXTINF:-1 tvg-name="Thangathirai" tvg-logo="https://logo.catvod.com/Thangathirai.png" group-title="🇲🇾 馬來西亞 | Malaysia",Thangathirai
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Thangathirai/
-#EXTINF:-1 tvg-name="Vinmeen" tvg-logo="https://logo.catvod.com/Vinmeen.png" group-title="🇲🇾 馬來西亞 | Malaysia",Vinmeen
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vinmeen/
-#EXTINF:-1 tvg-name="Vellithirai" tvg-logo="https://logo.catvod.com/Vellithirai.png" group-title="🇲🇾 馬來西亞 | Malaysia",Vellithirai
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vellithirai/
-#EXTINF:-1 tvg-name="Astro LOL" tvg-logo="https://logo.catvod.com/Astro LOL.png" group-title="🇲🇾 馬來西亞 | Malaysia",Astro LOL
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astro_lol/
-#EXTINF:-1 tvg-name="Al_Jazeera" tvg-logo="https://logo.catvod.com/Al_Jazeera.png" group-title="🇲🇾 馬來西亞 | Malaysia",Al_Jazeera
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Aljazeera/
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://logo.catvod.com/CNN.png" group-title="🇲🇾 馬來西亞 | Malaysia",CNN
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnn/
-#EXTINF:-1 tvg-name="CNN backup" tvg-logo="https://logo.catvod.com/CNN backup.png" group-title="🇲🇾 馬來西亞 | Malaysia",CNN backup
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cnn_twn/
-#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://logo.catvod.com/BBC World News.png" group-title="🇲🇾 馬來西亞 | Malaysia",BBC World News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bbcnews/
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://logo.catvod.com/CNBC.png" group-title="🇲🇾 馬來西亞 | Malaysia",CNBC
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnbc/
-#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://logo.catvod.com/Bloomberg TV.png" group-title="🇲🇾 馬來西亞 | Malaysia",Bloomberg TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bloomberg/
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://logo.catvod.com/CNA.png" group-title="🇲🇾 馬來西亞 | Malaysia",CNA
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna/
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://logo.catvod.com/DW.png" group-title="🇲🇾 馬來西亞 | Malaysia",DW
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dw/
-#EXTINF:-1 tvg-name="France 24" tvg-logo="https://logo.catvod.com/France 24.png" group-title="🇲🇾 馬來西亞 | Malaysia",France 24
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=France24/
-#EXTINF:-1 tvg-name="Eurosport" tvg-logo="https://logo.catvod.com/Eurosport.png" group-title="🇲🇾 馬來西亞 | Malaysia",Eurosport
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Eurosport/
-#EXTINF:-1 tvg-name="Skynews" tvg-logo="https://logo.catvod.com/Skynews.png" group-title="🇲🇾 馬來西亞 | Malaysia",Skynews
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Skynews/
-#EXTINF:-1 tvg-name="NHK Premium" tvg-logo="https://logo.catvod.com/NHK Premium.png" group-title="🇲🇾 馬來西亞 | Malaysia",NHK Premium
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=NHKpremium/
-#EXTINF:-1 tvg-name="Channel 3 Thailand" tvg-logo="https://logo.catvod.com/Channel 3 Thailand.png" group-title="🇹🇭 泰國 | Thailand",Channel 3 Thailand
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ch3_pat/
-#EXTINF:-1 tvg-name="Channel 5 Thailand" tvg-logo="https://logo.catvod.com/Channel 5 Thailand.png" group-title="🇹🇭 泰國 | Thailand",Channel 5 Thailand
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ch5_pat/
-#EXTINF:-1 tvg-name="Channel 7 Thailand" tvg-logo="https://logo.catvod.com/Channel 7 Thailand.png" group-title="🇹🇭 泰國 | Thailand",Channel 7 Thailand
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ch7_pat/
-#EXTINF:-1 tvg-name="MCOT HD Thailand-1" tvg-logo="https://logo.catvod.com/MCOT HD Thailand-1.png" group-title="🇹🇭 泰國 | Thailand",MCOT HD Thailand-1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mcot_pat/
-#EXTINF:-1 tvg-name="PPTV Thailand1" tvg-logo="https://logo.catvod.com/PPTV Thailand1.png" group-title="🇹🇭 泰國 | Thailand",PPTV Thailand1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=pptv_pat/
-#EXTINF:-1 tvg-name="Thai Thai" tvg-logo="https://logo.catvod.com/Thai Thai.png" group-title="🇹🇭 泰國 | Thailand",Thai Thai
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=thaithai_pat/
-#EXTINF:-1 tvg-name="Amarin" tvg-logo="https://logo.catvod.com/Amarin.png" group-title="🇹🇭 泰國 | Thailand",Amarin
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=amarin_pat/
-#EXTINF:-1 tvg-name="Ch 8" tvg-logo="https://logo.catvod.com/Ch 8.png" group-title="🇹🇭 泰國 | Thailand",Ch 8
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ch8_pat/
-#EXTINF:-1 tvg-name="GmmOne" tvg-logo="https://logo.catvod.com/GmmOne.png" group-title="🇹🇭 泰國 | Thailand",GmmOne
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=gmmone_pat/
-#EXTINF:-1 tvg-name="Mono" tvg-logo="https://logo.catvod.com/Mono.png" group-title="🇹🇭 泰國 | Thailand",Mono
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mono_pat/
-#EXTINF:-1 tvg-name="Thairath" tvg-logo="https://logo.catvod.com/Thairath.png" group-title="🇹🇭 泰國 | Thailand",Thairath
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=thairath_pat/
-#EXTINF:-1 tvg-name="tpbs" tvg-logo="https://logo.catvod.com/tpbs.png" group-title="🇹🇭 泰國 | Thailand",tpbs
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tpbs_pat/
-#EXTINF:-1 tvg-name="Workpoint" tvg-logo="https://logo.catvod.com/Workpoint.png" group-title="🇹🇭 泰國 | Thailand",Workpoint
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=workpoint_pat/
-#EXTINF:-1 tvg-name="Gmm Channel" tvg-logo="https://logo.catvod.com/Gmm Channel.png" group-title="🇹🇭 泰國 | Thailand",Gmm Channel
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=gmmchannel_pat/
-#EXTINF:-1 tvg-name="Nation" tvg-logo="https://logo.catvod.com/Nation.png" group-title="🇹🇭 泰國 | Thailand",Nation
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nation_pat/
-#EXTINF:-1 tvg-name="Tnn24" tvg-logo="https://logo.catvod.com/Tnn24.png" group-title="🇹🇭 泰國 | Thailand",Tnn24
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tnn24_pat/
-#EXTINF:-1 tvg-name="Nbt" tvg-logo="https://logo.catvod.com/Nbt.png" group-title="🇹🇭 泰國 | Thailand",Nbt
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nbt_pat/
-#EXTINF:-1 tvg-name="New" tvg-logo="https://logo.catvod.com/New.png" group-title="🇹🇭 泰國 | Thailand",New
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=new_pat/
-#EXTINF:-1 tvg-name="TPTV" tvg-logo="https://logo.catvod.com/TPTV.png" group-title="🇹🇭 泰國 | Thailand",TPTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tptv_pat/
-#EXTINF:-1 tvg-name="Test 1" tvg-logo="https://logo.catvod.com/Test 1.png" group-title="🇹🇭 泰國 | Thailand",Test 1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAA1/
-#EXTINF:-1 tvg-name="Test 2" tvg-logo="https://logo.catvod.com/Test 2.png" group-title="🇹🇭 泰國 | Thailand",Test 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAA2/
-#EXTINF:-1 tvg-name="Test 3" tvg-logo="https://logo.catvod.com/Test 3.png" group-title="🇹🇭 泰國 | Thailand",Test 3
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAA3/
-#EXTINF:-1 tvg-name="Test 4" tvg-logo="https://logo.catvod.com/Test 4.png" group-title="🇹🇭 泰國 | Thailand",Test 4
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAA4/
-#EXTINF:-1 tvg-name="Test 5" tvg-logo="https://logo.catvod.com/Test 5.png" group-title="🇹🇭 泰國 | Thailand",Test 5
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AAA5/
-#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://logo.catvod.com/ANTV.png" group-title="🇻🇳 越南 | Vietnam",ANTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_antv/
-#EXTINF:-1 tvg-name="VTV 1" tvg-logo="https://logo.catvod.com/VTV 1.png" group-title="🇻🇳 越南 | Vietnam",VTV 1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_vtv1/
-#EXTINF:-1 tvg-name="VTV 3" tvg-logo="https://logo.catvod.com/VTV 3.png" group-title="🇻🇳 越南 | Vietnam",VTV 3
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_vtv3/
-#EXTINF:-1 tvg-name="VTV 4" tvg-logo="https://logo.catvod.com/VTV 4.png" group-title="🇻🇳 越南 | Vietnam",VTV 4
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_vtv4/
-#EXTINF:-1 tvg-name="VTV 6" tvg-logo="https://logo.catvod.com/VTV 6.png" group-title="🇻🇳 越南 | Vietnam",VTV 6
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_vtv6/
-#EXTINF:-1 tvg-name="HTV 7" tvg-logo="https://logo.catvod.com/HTV 7.png" group-title="🇻🇳 越南 | Vietnam",HTV 7
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_htv7/
-#EXTINF:-1 tvg-name="HTV 9" tvg-logo="https://logo.catvod.com/HTV 9.png" group-title="🇻🇳 越南 | Vietnam",HTV 9
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_htv9/
-#EXTINF:-1 tvg-name="THVL HD" tvg-logo="https://logo.catvod.com/THVL HD.png" group-title="🇻🇳 越南 | Vietnam",THVL HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_thvl/
-#EXTINF:-1 tvg-name="TBKTV" tvg-logo="https://logo.catvod.com/TBKTV.png" group-title="🇻🇳 越南 | Vietnam",TBKTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_tbktv/
-#EXTINF:-1 tvg-name="BTV HD" tvg-logo="https://logo.catvod.com/BTV HD.png" group-title="🇻🇳 越南 | Vietnam",BTV HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_btvhd/
-#EXTINF:-1 tvg-name="CTV HD" tvg-logo="https://logo.catvod.com/CTV HD.png" group-title="🇻🇳 越南 | Vietnam",CTV HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vtn_ctvhd/
-#EXTINF:-1 tvg-name="TVRi National" tvg-logo="https://logo.catvod.com/TVRi National.png" group-title="🇮🇩 印度尼西亞 | Indonesia",TVRi National
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TVRI/
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://logo.catvod.com/RCTI.png" group-title="🇮🇩 印度尼西亞 | Indonesia",RCTI
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rcti/
-#EXTINF:-1 tvg-name="Kompass TV" tvg-logo="https://logo.catvod.com/Kompass TV.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Kompass TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Kompass/
-#EXTINF:-1 tvg-name="Berita Satu" tvg-logo="https://logo.catvod.com/Berita Satu.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Berita Satu
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=BeritaSatu_eko/
-#EXTINF:-1 tvg-name="Indosiar HD" tvg-logo="https://logo.catvod.com/Indosiar HD.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Indosiar HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Indosiar/
-#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://logo.catvod.com/Metro TV.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Metro TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=metrotv_eko/
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://logo.catvod.com/SCTV.png" group-title="🇮🇩 印度尼西亞 | Indonesia",SCTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=SCTV/
-#EXTINF:-1 tvg-name="AnTV" tvg-logo="https://logo.catvod.com/AnTV.png" group-title="🇮🇩 印度尼西亞 | Indonesia",AnTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Antv/
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://logo.catvod.com/MNC TV.png" group-title="🇮🇩 印度尼西亞 | Indonesia",MNC TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Mnctv/
-#EXTINF:-1 tvg-name="Trans 7" tvg-logo="https://logo.catvod.com/Trans 7.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Trans 7
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Trans7_eko/
-#EXTINF:-1 tvg-name="Transtv" tvg-logo="https://logo.catvod.com/Transtv.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Transtv
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Transtv/
-#EXTINF:-1 tvg-name="JTV" tvg-logo="https://logo.catvod.com/JTV.png" group-title="🇮🇩 印度尼西亞 | Indonesia",JTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=JTV_eko/
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://logo.catvod.com/Cinemax.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Cinemax
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cinemax/
-#EXTINF:-1 tvg-name="Tvone" tvg-logo="https://logo.catvod.com/Tvone.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Tvone
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvone/
-#EXTINF:-1 tvg-name="TVMU" tvg-logo="https://logo.catvod.com/TVMU.png" group-title="🇮🇩 印度尼西亞 | Indonesia",TVMU
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TVMU_eko/
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://logo.catvod.com/GTV.png" group-title="🇮🇩 印度尼西亞 | Indonesia",GTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Gtv/
-#EXTINF:-1 tvg-name="RTV" tvg-logo="https://logo.catvod.com/RTV.png" group-title="🇮🇩 印度尼西亞 | Indonesia",RTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rtv/
-#EXTINF:-1 tvg-name="Jak TV" tvg-logo="https://logo.catvod.com/Jak TV.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Jak TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=JakTV/
-#EXTINF:-1 tvg-name="iNews TV" tvg-logo="https://logo.catvod.com/iNews TV.png" group-title="🇮🇩 印度尼西亞 | Indonesia",iNews TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Inewstv/
-#EXTINF:-1 tvg-name="Daai TV" tvg-logo="https://logo.catvod.com/Daai TV.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Daai TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=DaaiTV/
-#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://logo.catvod.com/Net TV.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Net TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=NetTV/
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Animax
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Animax/
-#EXTINF:-1 tvg-name="EWTN" tvg-logo="https://logo.catvod.com/EWTN.png" group-title="🇮🇩 印度尼西亞 | Indonesia",EWTN
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ewtn/
-#EXTINF:-1 tvg-name="AlQuran AlKareem" tvg-logo="https://logo.catvod.com/AlQuran AlKareem.png" group-title="🇮🇩 印度尼西亞 | Indonesia",AlQuran AlKareem
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Alkareem/
-#EXTINF:-1 tvg-name="Tawaf TV" tvg-logo="https://logo.catvod.com/Tawaf TV.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Tawaf TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=TawafTV/
-#EXTINF:-1 tvg-name="Vision Prime" tvg-logo="https://logo.catvod.com/Vision Prime.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Vision Prime
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=VisionPrime/
-#EXTINF:-1 tvg-name="Muslim TV" tvg-logo="https://logo.catvod.com/Muslim TV.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Muslim TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=MuslimTV/
-#EXTINF:-1 tvg-name="Music TV" tvg-logo="https://logo.catvod.com/Music TV.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Music TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=MusicTV/
-#EXTINF:-1 tvg-name="Lifestyle&Fashion" tvg-logo="https://logo.catvod.com/Lifestyle&Fashion.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Lifestyle&Fashion
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Lifestyle/
-#EXTINF:-1 tvg-name="Entertain" tvg-logo="https://logo.catvod.com/Entertain.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Entertain
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Entertain/
-#EXTINF:-1 tvg-name="Hits" tvg-logo="https://logo.catvod.com/Hits.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Hits
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hits/
-#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://logo.catvod.com/Warner TV.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Warner TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV/
-#EXTINF:-1 tvg-name="Fight Sports" tvg-logo="https://logo.catvod.com/Fight Sports.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Fight Sports
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Fs/
-#EXTINF:-1 tvg-name="SCM" tvg-logo="https://logo.catvod.com/SCM.png" group-title="🇮🇩 印度尼西亞 | Indonesia",SCM
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Weishimovie/
-#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://logo.catvod.com/Thrill.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Thrill
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Thrill/
-#EXTINF:-1 tvg-name="Hits Movie" tvg-logo="https://logo.catvod.com/Hits Movie.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Hits Movie
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hitsmovie/
-#EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://logo.catvod.com/tvN Movie.png" group-title="🇮🇩 印度尼西亞 | Indonesia",tvN Movie
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvnmovie/
-#EXTINF:-1 tvg-name="One" tvg-logo="https://logo.catvod.com/One.png" group-title="🇮🇩 印度尼西亞 | Indonesia",One
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=One/
-#EXTINF:-1 tvg-name="天映頻道Celestial Movies" tvg-logo="https://logo.catvod.com/天映頻道Celestial Movies.png" group-title="🇮🇩 印度尼西亞 | Indonesia",天映頻道Celestial Movies
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Celestialindo/
-#EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://logo.catvod.com/Rock Actions.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Rock Actions
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockaction/
-#EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://logo.catvod.com/Rock Entertainment.png" group-title="🇮🇩 印度尼西亞 | Indonesia",Rock Entertainment
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockentertain/
-#EXTINF:-1 tvg-name="Sun TV HD" tvg-logo="https://logo.catvod.com/Sun TV HD.png" group-title="🇮🇳 印度 | India",Sun TV HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Suntv/
-#EXTINF:-1 tvg-name="Star Vijay" tvg-logo="https://logo.catvod.com/Star Vijay.png" group-title="🇮🇳 印度 | India",Star Vijay
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Starvijay/
-#EXTINF:-1 tvg-name="Colors Tamil" tvg-logo="https://logo.catvod.com/Colors Tamil.png" group-title="🇮🇳 印度 | India",Colors Tamil
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Colorstam/
-#EXTINF:-1 tvg-name="Sun Music" tvg-logo="https://logo.catvod.com/Sun Music.png" group-title="🇮🇳 印度 | India",Sun Music
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Sunmusic/
-#EXTINF:-1 tvg-name="Astro Sunlife" tvg-logo="https://logo.catvod.com/Astro Sunlife.png" group-title="🇮🇳 印度 | India",Astro Sunlife
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Sunlife/
-#EXTINF:-1 tvg-name="Astro Vaanavil" tvg-logo="https://logo.catvod.com/Astro Vaanavil.png" group-title="🇮🇳 印度 | India",Astro Vaanavil
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vaanavil/
-#EXTINF:-1 tvg-name="Zee Tamil" tvg-logo="https://logo.catvod.com/Zee Tamil.png" group-title="🇮🇳 印度 | India",Zee Tamil
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeetamil/
-#EXTINF:-1 tvg-name="Zee Business" tvg-logo="https://logo.catvod.com/Zee Business.png" group-title="🇮🇳 印度 | India",Zee Business
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeebusiness/
-#EXTINF:-1 tvg-name="News 18 Tamil" tvg-logo="https://logo.catvod.com/News 18 Tamil.png" group-title="🇮🇳 印度 | India",News 18 Tamil
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=news18tamil_raj/
-#EXTINF:-1 tvg-name="Adithya" tvg-logo="https://logo.catvod.com/Adithya.png" group-title="🇮🇳 印度 | India",Adithya
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Adithya/
-#EXTINF:-1 tvg-name="Makkal TV" tvg-logo="https://logo.catvod.com/Makkal TV.png" group-title="🇮🇳 印度 | India",Makkal TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Makkaltv/
-#EXTINF:-1 tvg-name="Zee Action" tvg-logo="https://logo.catvod.com/Zee Action.png" group-title="🇮🇳 印度 | India",Zee Action
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeeaction/
-#EXTINF:-1 tvg-name="Astro KTV" tvg-logo="https://logo.catvod.com/Astro KTV.png" group-title="🇮🇳 印度 | India",Astro KTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astroktv/
-#EXTINF:-1 tvg-name="Zee TV HD" tvg-logo="https://logo.catvod.com/Zee TV HD.png" group-title="🇮🇳 印度 | India",Zee TV HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeetvhd/
-#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://logo.catvod.com/Zee Cinema HD.png" group-title="🇮🇳 印度 | India",Zee Cinema HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeecinemahd/
-#EXTINF:-1 tvg-name="Color HD" tvg-logo="https://logo.catvod.com/Color HD.png" group-title="🇮🇳 印度 | India",Color HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Colorhd/
-#EXTINF:-1 tvg-name="Starplus HD" tvg-logo="https://logo.catvod.com/Starplus HD.png" group-title="🇮🇳 印度 | India",Starplus HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Starplushd/
-#EXTINF:-1 tvg-name="Picture HD" tvg-logo="https://logo.catvod.com/Picture HD.png" group-title="🇮🇳 印度 | India",Picture HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Npicture/
-#EXTINF:-1 tvg-name="Zee News" tvg-logo="https://logo.catvod.com/Zee News.png" group-title="🇮🇳 印度 | India",Zee News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Zeenews/
-#EXTINF:-1 tvg-name="Asianet" tvg-logo="https://logo.catvod.com/Asianet.png" group-title="🇮🇳 印度 | India",Asianet
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=asianet_raj/
-#EXTINF:-1 tvg-name="Asianet News" tvg-logo="https://logo.catvod.com/Asianet News.png" group-title="🇮🇳 印度 | India",Asianet News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=asianetnews_raj/
-#EXTINF:-1 tvg-name="Discovery World Tamil" tvg-logo="https://logo.catvod.com/Discovery World Tamil.png" group-title="🇮🇳 印度 | India",Discovery World Tamil
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=discoveryworldtam_raj/
-#EXTINF:-1 tvg-name="History Tamil" tvg-logo="https://logo.catvod.com/History Tamil.png" group-title="🇮🇳 印度 | India",History Tamil
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=historytam_raj/
-#EXTINF:-1 tvg-name="NatGeo Tamil" tvg-logo="https://logo.catvod.com/NatGeo Tamil.png" group-title="🇮🇳 印度 | India",NatGeo Tamil
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=natgeotamil_raj/
-#EXTINF:-1 tvg-name="Natgeo Wild Tamil" tvg-logo="https://logo.catvod.com/Natgeo Wild Tamil.png" group-title="🇮🇳 印度 | India",Natgeo Wild Tamil
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=natgeowildtamil_raj/
-#EXTINF:-1 tvg-name="Discovery Kids Tamil" tvg-logo="https://logo.catvod.com/Discovery Kids Tamil.png" group-title="🇮🇳 印度 | India",Discovery Kids Tamil
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=discoverykidtamil_raj/
-#EXTINF:-1 tvg-name="Sony Yay Tamil" tvg-logo="https://logo.catvod.com/Sony Yay Tamil.png" group-title="🇮🇳 印度 | India",Sony Yay Tamil
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sonyyaytam_raj/
-#EXTINF:-1 tvg-name="Sun TV India" tvg-logo="https://logo.catvod.com/Sun TV India.png" group-title="🇮🇳 印度 | India",Sun TV India
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=suntv_raj/
-#EXTINF:-1 tvg-name="Starmaa HD" tvg-logo="https://logo.catvod.com/Starmaa HD.png" group-title="🇮🇳 印度 | India",Starmaa HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=starmaa_raj/
-#EXTINF:-1 tvg-name="Starmaa Movies HD" tvg-logo="https://logo.catvod.com/Starmaa Movies HD.png" group-title="🇮🇳 印度 | India",Starmaa Movies HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=starmaamovies_raj/
-#EXTINF:-1 tvg-name="Vijay Super" tvg-logo="https://logo.catvod.com/Vijay Super.png" group-title="🇮🇳 印度 | India",Vijay Super
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=vijaysuper_raj/
-#EXTINF:-1 tvg-name="Bollyone" tvg-logo="https://logo.catvod.com/Bollyone.png" group-title="🇮🇳 印度 | India",Bollyone
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bollyone/
-#EXTINF:-1 tvg-name="Astro Sunmusic" tvg-logo="https://logo.catvod.com/Astro Sunmusic.png" group-title="🇮🇳 印度 | India",Astro Sunmusic
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Sunmusic/
-#EXTINF:-1 tvg-name="Thangathirai" tvg-logo="https://logo.catvod.com/Thangathirai.png" group-title="🇮🇳 印度 | India",Thangathirai
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Thangathirai/
-#EXTINF:-1 tvg-name="Vinmeen" tvg-logo="https://logo.catvod.com/Vinmeen.png" group-title="🇮🇳 印度 | India",Vinmeen
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vinmeen/
-#EXTINF:-1 tvg-name="Vellithirai" tvg-logo="https://logo.catvod.com/Vellithirai.png" group-title="🇮🇳 印度 | India",Vellithirai
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Vellithirai/
-#EXTINF:-1 tvg-name="Sony Pictures HD" tvg-logo="https://logo.catvod.com/Sony Pictures HD.png" group-title="🇮🇳 印度 | India",Sony Pictures HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=sonypix/
-#EXTINF:-1 tvg-name="BBC 1" tvg-logo="https://logo.catvod.com/BBC 1.png" group-title="🇬🇧 英國 | United Kingdom",BBC 1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbc1_antik/
-#EXTINF:-1 tvg-name="BBC 2" tvg-logo="https://logo.catvod.com/BBC 2.png" group-title="🇬🇧 英國 | United Kingdom",BBC 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbc2_antik/
-#EXTINF:-1 tvg-name="CBBC" tvg-logo="https://logo.catvod.com/CBBC.png" group-title="🇬🇧 英國 | United Kingdom",CBBC
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cbbc_antik/
-#EXTINF:-1 tvg-name="More4" tvg-logo="https://logo.catvod.com/More4.png" group-title="🇬🇧 英國 | United Kingdom",More4
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=more4_antik/
-#EXTINF:-1 tvg-name="Freesports" tvg-logo="https://logo.catvod.com/Freesports.png" group-title="🇬🇧 英國 | United Kingdom",Freesports
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=freesports_antik/
-#EXTINF:-1 tvg-name="Pick TV" tvg-logo="https://logo.catvod.com/Pick TV.png" group-title="🇬🇧 英國 | United Kingdom",Pick TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=picktv_antik/
-#EXTINF:-1 tvg-name="itv 1" tvg-logo="https://logo.catvod.com/itv 1.png" group-title="🇬🇧 英國 | United Kingdom",itv 1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=itv1_antik/
-#EXTINF:-1 tvg-name="itv 2" tvg-logo="https://logo.catvod.com/itv 2.png" group-title="🇬🇧 英國 | United Kingdom",itv 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=itv2_antik/
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="🇬🇧 英國 | United Kingdom",CGTN
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=CGTN/
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://logo.catvod.com/Euronews.png" group-title="🇬🇧 英國 | United Kingdom",Euronews
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=euronews_antik/
-#EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://logo.catvod.com/Channel 4.png" group-title="🇬🇧 英國 | United Kingdom",Channel 4
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=channel4_antik/
-#EXTINF:-1 tvg-name="DW (Deutsch)" tvg-logo="https://logo.catvod.com/DW (Deutsch).png" group-title="🇬🇧 英國 | United Kingdom",DW (Deutsch)
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dw_twn/
-#EXTINF:-1 tvg-name="NatGeo HD" tvg-logo="https://logo.catvod.com/NatGeo HD.png" group-title="🇬🇧 英國 | United Kingdom",NatGeo HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeo/
-#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://logo.catvod.com/CBeebies.png" group-title="🇬🇧 英國 | United Kingdom",CBeebies
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cbeebies/
-#EXTINF:-1 tvg-name="History" tvg-logo="https://logo.catvod.com/History.png" group-title="🇬🇧 英國 | United Kingdom",History
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=History/
-#EXTINF:-1 tvg-name="Kids TV" tvg-logo="https://logo.catvod.com/Kids TV.png" group-title="🇬🇧 英國 | United Kingdom",Kids TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=KidsTV/
-#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://logo.catvod.com/BBC Earth HD.png" group-title="🇬🇧 英國 | United Kingdom",BBC Earth HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbcearth_twn/
-#EXTINF:-1 tvg-name="BBC Earth Lifestyle" tvg-logo="https://logo.catvod.com/BBC Earth Lifestyle.png" group-title="🇬🇧 英國 | United Kingdom",BBC Earth Lifestyle
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbclifestyle_twn/
-#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://logo.catvod.com/MTV Live.png" group-title="🇬🇧 英國 | United Kingdom",MTV Live
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mtvhd_twn/
-#EXTINF:-1 tvg-name="Star Movies HD" tvg-logo="https://logo.catvod.com/Star Movies HD.png" group-title="🇬🇧 英國 | United Kingdom",Star Movies HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=starmovies_raj/
-#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://logo.catvod.com/NHK World.png" group-title="🇬🇧 英國 | United Kingdom",NHK World
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkworld_japan/
-#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://logo.catvod.com/Warner TV.png" group-title="🇬🇧 英國 | United Kingdom",Warner TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV/
-#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://logo.catvod.com/Thrill.png" group-title="🇬🇧 英國 | United Kingdom",Thrill
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Thrill/
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://logo.catvod.com/HGTV.png" group-title="🇬🇧 英國 | United Kingdom",HGTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=HGTV/
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://logo.catvod.com/TLC.png" group-title="🇬🇧 英國 | United Kingdom",TLC
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tlc/
-#EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://logo.catvod.com/Axn HD.png" group-title="🇬🇧 英國 | United Kingdom",Axn HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Axn/
-#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://logo.catvod.com/HBO HD.png" group-title="🇬🇧 英國 | United Kingdom",HBO HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbo/
-#EXTINF:-1 tvg-name="Hits Movie" tvg-logo="https://logo.catvod.com/Hits Movie.png" group-title="🇬🇧 英國 | United Kingdom",Hits Movie
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hitsmovie/
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://logo.catvod.com/Nickelodeon.png" group-title="🇬🇧 英國 | United Kingdom",Nickelodeon
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickelodeon/
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://logo.catvod.com/Nick Jr.png" group-title="🇬🇧 英國 | United Kingdom",Nick Jr
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickjr/
-#EXTINF:-1 tvg-name="Al-Jazeera" tvg-logo="https://logo.catvod.com/Al-Jazeera.png" group-title="🇬🇧 英國 | United Kingdom",Al-Jazeera
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=aljazeera_twn/
-#EXTINF:-1 tvg-name="Animal Planet (Eng)" tvg-logo="https://logo.catvod.com/Animal Planet (Eng).png" group-title="🇬🇧 英國 | United Kingdom",Animal Planet (Eng)
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AnimalPlanet/
-#EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://logo.catvod.com/Bloomberg News.png" group-title="🇬🇧 英國 | United Kingdom",Bloomberg News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bloomberg_twn/
-#EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://logo.catvod.com/NatGeo Wild HD.png" group-title="🇬🇧 英國 | United Kingdom",NatGeo Wild HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeowild/
-#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://logo.catvod.com/BBC World News.png" group-title="🇬🇧 英國 | United Kingdom",BBC World News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbcworldnews_antik/
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://logo.catvod.com/CNBC.png" group-title="🇬🇧 英國 | United Kingdom",CNBC
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnbc/
-#EXTINF:-1 tvg-name="France 24" tvg-logo="https://logo.catvod.com/France 24.png" group-title="🇬🇧 英國 | United Kingdom",France 24
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=france24_twn/
-#EXTINF:-1 tvg-name="Skynews" tvg-logo="https://logo.catvod.com/Skynews.png" group-title="🇬🇧 英國 | United Kingdom",Skynews
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=skynews_twn/
-#EXTINF:-1 tvg-name="Astro PL 1" tvg-logo="https://logo.catvod.com/Astro PL 1.png" group-title="⚽ 體育頻道 | Sports",Astro PL 1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Assp1/
-#EXTINF:-1 tvg-name="Astro PL 1 (Back Up 1)" tvg-logo="https://logo.catvod.com/Astro PL 1 (Back Up 1).png" group-title="⚽ 體育頻道 | Sports",Astro PL 1 (Back Up 1)
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp1/
-#EXTINF:-1 tvg-name="Astro PL 1 (Back Up 2)" tvg-logo="https://logo.catvod.com/Astro PL 1 (Back Up 2).png" group-title="⚽ 體育頻道 | Sports",Astro PL 1 (Back Up 2)
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp1x/
-#EXTINF:-1 tvg-name="Astro W-Sports" tvg-logo="https://logo.catvod.com/Astro W-Sports.png" group-title="⚽ 體育頻道 | Sports",Astro W-Sports
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp5/
-#EXTINF:-1 tvg-name="Astro PL 2" tvg-logo="https://logo.catvod.com/Astro PL 2.png" group-title="⚽ 體育頻道 | Sports",Astro PL 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp2/
-#EXTINF:-1 tvg-name="WWE" tvg-logo="https://logo.catvod.com/WWE.png" group-title="⚽ 體育頻道 | Sports",WWE
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Wwe/
-#EXTINF:-1 tvg-name="博斯高球2 HD" tvg-logo="https://logo.catvod.com/博斯高球2 HD.png" group-title="⚽ 體育頻道 | Sports",博斯高球2 HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bosigolf2_twn/
-#EXTINF:-1 tvg-name="博斯网球 HD" tvg-logo="https://logo.catvod.com/博斯网球 HD.png" group-title="⚽ 體育頻道 | Sports",博斯网球 HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bositennis_twn/
-#EXTINF:-1 tvg-name="Fight Sports" tvg-logo="https://logo.catvod.com/Fight Sports.png" group-title="⚽ 體育頻道 | Sports",Fight Sports
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Fs/
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://logo.catvod.com/NBA TV.png" group-title="⚽ 體育頻道 | Sports",NBA TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nba/
-#EXTINF:-1 tvg-name="Arena" tvg-logo="https://logo.catvod.com/Arena.png" group-title="⚽ 體育頻道 | Sports",Arena
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Arena/
-#EXTINF:-1 tvg-name="Arena 2" tvg-logo="https://logo.catvod.com/Arena 2.png" group-title="⚽ 體育頻道 | Sports",Arena 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Arena2/
-#EXTINF:-1 tvg-name="Arena Bola 1" tvg-logo="https://logo.catvod.com/Arena Bola 1.png" group-title="⚽ 體育頻道 | Sports",Arena Bola 1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bolaarena1/
-#EXTINF:-1 tvg-name="Arena Bola 2" tvg-logo="https://logo.catvod.com/Arena Bola 2.png" group-title="⚽ 體育頻道 | Sports",Arena Bola 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bolaarena2/
-#EXTINF:-1 tvg-name="Astro Golf" tvg-logo="https://logo.catvod.com/Astro Golf.png" group-title="⚽ 體育頻道 | Sports",Astro Golf
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Agolf/
-#EXTINF:-1 tvg-name="RTM Sports HD" tvg-logo="https://logo.catvod.com/RTM Sports HD.png" group-title="⚽ 體育頻道 | Sports",RTM Sports HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rtmsport/
-#EXTINF:-1 tvg-name="Astro Football" tvg-logo="https://logo.catvod.com/Astro Football.png" group-title="⚽ 體育頻道 | Sports",Astro Football
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp4/
-#EXTINF:-1 tvg-name="Astro Football (Back Up 1)" tvg-logo="https://logo.catvod.com/Astro Football (Back Up 1).png" group-title="⚽ 體育頻道 | Sports",Astro Football (Back Up 1)
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Assp4/
-#EXTINF:-1 tvg-name="Astro Badminton" tvg-logo="https://logo.catvod.com/Astro Badminton.png" group-title="⚽ 體育頻道 | Sports",Astro Badminton
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_badminton1/
-#EXTINF:-1 tvg-name="Astro Badminton 2" tvg-logo="https://logo.catvod.com/Astro Badminton 2.png" group-title="⚽ 體育頻道 | Sports",Astro Badminton 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_badminton2/
-#EXTINF:-1 tvg-name="SPOTV 1 HD" tvg-logo="https://logo.catvod.com/SPOTV 1 HD.png" group-title="⚽ 體育頻道 | Sports",SPOTV 1 HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_spotv/
-#EXTINF:-1 tvg-name="SPO TV 2" tvg-logo="https://logo.catvod.com/SPO TV 2.png" group-title="⚽ 體育頻道 | Sports",SPO TV 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_spotv2/
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="⚽ 體育頻道 | Sports",CCTV-5 體育
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv5/
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="⚽ 體育頻道 | Sports",CCTV-5+ 體育
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv5plus/
-#EXTINF:-1 tvg-name="Supersports 2" tvg-logo="https://logo.catvod.com/Supersports 2.png" group-title="⚽ 體育頻道 | Sports",Supersports 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Assp2/
-#EXTINF:-1 tvg-name="Astro Grandstand" tvg-logo="https://logo.catvod.com/Astro Grandstand.png" group-title="⚽ 體育頻道 | Sports",Astro Grandstand
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_assp3/
-#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="https://logo.catvod.com/Astro Cricket.png" group-title="⚽ 體育頻道 | Sports",Astro Cricket
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Acricket/
-#EXTINF:-1 tvg-name="Tnt Sports 1" tvg-logo="https://logo.catvod.com/Tnt Sports 1.png" group-title="⚽ 體育頻道 | Sports",Tnt Sports 1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tntsport1/
-#EXTINF:-1 tvg-name="Astro Grandstand (Back Up 1)" tvg-logo="https://logo.catvod.com/Astro Grandstand (Back Up 1).png" group-title="⚽ 體育頻道 | Sports",Astro Grandstand (Back Up 1)
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Assp3/
-#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://logo.catvod.com/TNT Sports 2.png" group-title="⚽ 體育頻道 | Sports",TNT Sports 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tntsport2/
-#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://logo.catvod.com/TNT Sports 3.png" group-title="⚽ 體育頻道 | Sports",TNT Sports 3
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tntsport3/
-#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://logo.catvod.com/TNT Sports 4.png" group-title="⚽ 體育頻道 | Sports",TNT Sports 4
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tntsport4/
-#EXTINF:-1 tvg-name="Astro Sports Plus" tvg-logo="https://logo.catvod.com/Astro Sports Plus.png" group-title="⚽ 體育頻道 | Sports",Astro Sports Plus
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=go_sportsplus/
-#EXTINF:-1 tvg-name="EltaSports1台" tvg-logo="https://logo.catvod.com/EltaSports1台.png" group-title="⚽ 體育頻道 | Sports",EltaSports1台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport1_twn/
-#EXTINF:-1 tvg-name="Elta體育2台" tvg-logo="https://logo.catvod.com/Elta體育2台.png" group-title="⚽ 體育頻道 | Sports",Elta體育2台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport2_twn/
-#EXTINF:-1 tvg-name="Elta體育3台" tvg-logo="https://logo.catvod.com/Elta體育3台.png" group-title="⚽ 體育頻道 | Sports",Elta體育3台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=eltasport3_twn/
-#EXTINF:-1 tvg-name="Rugby Pass TV" tvg-logo="https://logo.catvod.com/Rugby Pass TV.png" group-title="⚽ 體育頻道 | Sports",Rugby Pass TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rugbypasstv/
-#EXTINF:-1 tvg-name="Astro Beinsports 1" tvg-logo="https://logo.catvod.com/Astro Beinsports 1.png" group-title="⚽ 體育頻道 | Sports",Astro Beinsports 1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astrobein1/
-#EXTINF:-1 tvg-name="Astro Beinsports 2" tvg-logo="https://logo.catvod.com/Astro Beinsports 2.png" group-title="⚽ 體育頻道 | Sports",Astro Beinsports 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astrobein2/
-#EXTINF:-1 tvg-name="Astro Beinsports 3" tvg-logo="https://logo.catvod.com/Astro Beinsports 3.png" group-title="⚽ 體育頻道 | Sports",Astro Beinsports 3
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Astrobein3/
-#EXTINF:-1 tvg-name="Skysports Cricket" tvg-logo="https://logo.catvod.com/Skysports Cricket.png" group-title="⚽ 體育頻道 | Sports",Skysports Cricket
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongcricket/
-#EXTINF:-1 tvg-name="Skysports EPL" tvg-logo="https://logo.catvod.com/Skysports EPL.png" group-title="⚽ 體育頻道 | Sports",Skysports EPL
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongepl/
-#EXTINF:-1 tvg-name="Skysports F1" tvg-logo="https://logo.catvod.com/Skysports F1.png" group-title="⚽ 體育頻道 | Sports",Skysports F1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongf1/
-#EXTINF:-1 tvg-name="Skysports Golf" tvg-logo="https://logo.catvod.com/Skysports Golf.png" group-title="⚽ 體育頻道 | Sports",Skysports Golf
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankonggolf/
-#EXTINF:-1 tvg-name="Skysports Main Event" tvg-logo="https://logo.catvod.com/Skysports Main Event.png" group-title="⚽ 體育頻道 | Sports",Skysports Main Event
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongmain/
-#EXTINF:-1 tvg-name="Skysports Mix" tvg-logo="https://logo.catvod.com/Skysports Mix.png" group-title="⚽ 體育頻道 | Sports",Skysports Mix
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongmix/
-#EXTINF:-1 tvg-name="Skysports Racing" tvg-logo="https://logo.catvod.com/Skysports Racing.png" group-title="⚽ 體育頻道 | Sports",Skysports Racing
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tiankongracing/
-#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://logo.catvod.com/DAZN 1.png" group-title="⚽ 體育頻道 | Sports",DAZN 1
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dazn1_twn/
-#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://logo.catvod.com/DAZN 2.png" group-title="⚽ 體育頻道 | Sports",DAZN 2
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dazn2_twn/
-#EXTINF:-1 tvg-name="Eurosport" tvg-logo="https://logo.catvod.com/Eurosport.png" group-title="⚽ 體育頻道 | Sports",Eurosport
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Eurosport/
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://logo.catvod.com/TVB Plus.png" group-title="🎬 電影頻道",TVB Plus
-https://smt.1678520.xyz/163189/18e96648d4420d9e
-#EXTINF:-1 tvg-name="纬来Movie台" tvg-logo="https://logo.catvod.com/纬来Movie台.png" group-title="🎬 電影頻道",纬来Movie台
-https://smt.1678520.xyz/163189/145487bee05856fc
-#EXTINF:-1 tvg-name="纬来戏剧台" tvg-logo="https://logo.catvod.com/纬来戏剧台.png" group-title="🎬 電影頻道",纬来戏剧台
-https://smt.1678520.xyz/163189/3586bd154f561caa
-#EXTINF:-1 tvg-name="纬来Sports台" tvg-logo="https://logo.catvod.com/纬来Sports台.png" group-title="🎬 電影頻道",纬来Sports台
-https://smt.1678520.xyz/163189/286f8eb30448a8e8
-#EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://logo.catvod.com/龙祥时代.png" group-title="🎬 電影頻道",龙祥时代
-https://smt.1678520.xyz/163189/76e7d8326be4c1bb
-#EXTINF:-1 tvg-name="东森Movie" tvg-logo="https://logo.catvod.com/东森Movie.png" group-title="🎬 電影頻道",东森Movie
-https://smt.1678520.xyz/163189/a2a1ea789e237e18
-#EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://logo.catvod.com/东森戏剧.png" group-title="🎬 電影頻道",东森戏剧
-https://smt.1678520.xyz/163189/2824421ea53c4891
-#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://logo.catvod.com/东森洋片.png" group-title="🎬 電影頻道",东森洋片
-https://smt.1678520.xyz/163189/c0e7a31a1ec220fd
 
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="🎬 電影頻道 | Movies",CCTV-6 電影
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv6/
-#EXTINF:-1 tvg-name="HBO_HD" tvg-logo="https://logo.catvod.com/HBO_HD.png" group-title="🎬 電影頻道 | Movies",HBO_HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbohd_twn/
-#EXTINF:-1 tvg-name="HBO_HITS" tvg-logo="https://logo.catvod.com/HBO_HITS.png" group-title="🎬 電影頻道 | Movies",HBO_HITS
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbohits_twn/
-#EXTINF:-1 tvg-name="HBO Signature Taiwan" tvg-logo="https://logo.catvod.com/HBO Signature Taiwan.png" group-title="🎬 電影頻道 | Movies",HBO Signature Taiwan
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hbosignature_twn/
-#EXTINF:-1 tvg-name="Hollywood Movies" tvg-logo="https://logo.catvod.com/Hollywood Movies.png" group-title="🎬 電影頻道 | Movies",Hollywood Movies
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=hollywoodmovies_twn/
-#EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://logo.catvod.com/AXN Taiwan.png" group-title="🎬 電影頻道 | Movies",AXN Taiwan
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=axn_twn/
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://logo.catvod.com/CINEMAX.png" group-title="🎬 電影頻道 | Movies",CINEMAX
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cinemax_twn/
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://logo.catvod.com/Cinemax.png" group-title="🎬 電影頻道 | Movies",Cinemax
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cinemax/
-#EXTINF:-1 tvg-name="大爱2台" tvg-logo="https://logo.catvod.com/大爱2台.png" group-title="🎬 電影頻道 | Movies",大爱2台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=daai2_twn/
-#EXTINF:-1 tvg-name="东森Movie ETTV Movie" tvg-logo="https://logo.catvod.com/东森Movie ETTV Movie.png" group-title="🎬 電影頻道 | Movies",东森Movie ETTV Movie
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvmovie/
-#EXTINF:-1 tvg-name="东森洋片 ETTV Western" tvg-logo="https://logo.catvod.com/东森洋片 ETTV Western.png" group-title="🎬 電影頻道 | Movies",东森洋片 ETTV Western
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvwestern/
-#EXTINF:-1 tvg-name="龙华洋片 Lunghua Western" tvg-logo="https://logo.catvod.com/龙华洋片 Lunghua Western.png" group-title="🎬 電影頻道 | Movies",龙华洋片 Lunghua Western
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lunghuawestern_twn/
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title="🎬 電影頻道 | Movies",Animax
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Animax/
-#EXTINF:-1 tvg-name="龙详时代" tvg-logo="https://logo.catvod.com/龙详时代.png" group-title="🎬 電影頻道 | Movies",龙详时代
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn/
-#EXTINF:-1 tvg-name="Movies Now HD" tvg-logo="https://logo.catvod.com/Movies Now HD.png" group-title="🎬 電影頻道 | Movies",Movies Now HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=moviesnow_raj/
-#EXTINF:-1 tvg-name="Star Movies HD" tvg-logo="https://logo.catvod.com/Star Movies HD.png" group-title="🎬 電影頻道 | Movies",Star Movies HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=starmovies_raj/
-#EXTINF:-1 tvg-name="TV中文台 Star Movies Chinese" tvg-logo="https://logo.catvod.com/TV中文台 Star Movies Chinese.png" group-title="🎬 電影頻道 | Movies",TV中文台 Star Movies Chinese
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=weishichinese_twn/
-#EXTINF:-1 tvg-name="Hits" tvg-logo="https://logo.catvod.com/Hits.png" group-title="🎬 電影頻道 | Movies",Hits
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hits/
-#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://logo.catvod.com/Warner TV.png" group-title="🎬 電影頻道 | Movies",Warner TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=WarnerTV/
-#EXTINF:-1 tvg-name="美亚Movie" tvg-logo="https://logo.catvod.com/美亚Movie.png" group-title="🎬 電影頻道 | Movies",美亚Movie
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=meiyamovie_twn/
-#EXTINF:-1 tvg-name="SCM" tvg-logo="https://logo.catvod.com/SCM.png" group-title="🎬 電影頻道 | Movies",SCM
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Weishimovie/
-#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://logo.catvod.com/Thrill.png" group-title="🎬 電影頻道 | Movies",Thrill
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Thrill/
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://logo.catvod.com/HBO Family.png" group-title="🎬 電影頻道 | Movies",HBO Family
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbofamily/
-#EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://logo.catvod.com/Axn HD.png" group-title="🎬 電影頻道 | Movies",Axn HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Axn/
-#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://logo.catvod.com/HBO HD.png" group-title="🎬 電影頻道 | Movies",HBO HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbo/
-#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://logo.catvod.com/HBO Signature.png" group-title="🎬 電影頻道 | Movies",HBO Signature
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbosignature/
-#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://logo.catvod.com/HBO Hits.png" group-title="🎬 電影頻道 | Movies",HBO Hits
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbohitshd/
-#EXTINF:-1 tvg-name="Dreamworks" tvg-logo="https://logo.catvod.com/Dreamworks.png" group-title="🎬 電影頻道 | Movies",Dreamworks
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dreamworks/
-#EXTINF:-1 tvg-name="Hits Movie" tvg-logo="https://logo.catvod.com/Hits Movie.png" group-title="🎬 電影頻道 | Movies",Hits Movie
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hitsmovie/
-#EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://logo.catvod.com/tvN Movie.png" group-title="🎬 電影頻道 | Movies",tvN Movie
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tvnmovie/
-#EXTINF:-1 tvg-name="Astrol Kplus" tvg-logo="https://logo.catvod.com/Astrol Kplus.png" group-title="🎬 電影頻道 | Movies",Astrol Kplus
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Kplus/
-#EXTINF:-1 tvg-name="One" tvg-logo="https://logo.catvod.com/One.png" group-title="🎬 電影頻道 | Movies",One
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=One/
-#EXTINF:-1 tvg-name="天映頻道Celestial Movies" tvg-logo="https://logo.catvod.com/天映頻道Celestial Movies.png" group-title="🎬 電影頻道 | Movies",天映頻道Celestial Movies
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Celestialindo/
-#EXTINF:-1 tvg-name="Celestial Classic" tvg-logo="https://logo.catvod.com/Celestial Classic.png" group-title="🎬 電影頻道 | Movies",Celestial Classic
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Celestial2/
-#EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://logo.catvod.com/Rock Actions.png" group-title="🎬 電影頻道 | Movies",Rock Actions
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockaction/
-#EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://logo.catvod.com/Rock Entertainment.png" group-title="🎬 電影頻道 | Movies",Rock Entertainment
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Rockentertain/
-#EXTINF:-1 tvg-name="CI" tvg-logo="https://logo.catvod.com/CI.png" group-title="📜 紀錄頻道 | Documentary",CI
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ci_twn/
-#EXTINF:-1 tvg-name="Asia Travel" tvg-logo="https://logo.catvod.com/Asia Travel.png" group-title="📜 紀錄頻道 | Documentary",Asia Travel
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=asiatravel_twn/
-#EXTINF:-1 tvg-name="亚洲美食" tvg-logo="https://logo.catvod.com/亚洲美食.png" group-title="📜 紀錄頻道 | Documentary",亚洲美食
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=afc_twn/
-#EXTINF:-1 tvg-name="NatGeo HD" tvg-logo="https://logo.catvod.com/NatGeo HD.png" group-title="📜 紀錄頻道 | Documentary",NatGeo HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeo/
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://logo.catvod.com/Fashion TV.png" group-title="📜 紀錄頻道 | Documentary",Fashion TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=fashiontv_twn/
-#EXTINF:-1 tvg-name="History" tvg-logo="https://logo.catvod.com/History.png" group-title="📜 紀錄頻道 | Documentary",History
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=History/
-#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://logo.catvod.com/BBC Earth HD.png" group-title="📜 紀錄頻道 | Documentary",BBC Earth HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbcearth_twn/
-#EXTINF:-1 tvg-name="BBC Earth Lifestyle" tvg-logo="https://logo.catvod.com/BBC Earth Lifestyle.png" group-title="📜 紀錄頻道 | Documentary",BBC Earth Lifestyle
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbclifestyle_twn/
-#EXTINF:-1 tvg-name="亚洲旅游 TLC Asia" tvg-logo="https://logo.catvod.com/亚洲旅游 TLC Asia.png" group-title="📜 紀錄頻道 | Documentary",亚洲旅游 TLC Asia
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tlc_twn/
-#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://logo.catvod.com/MTV Live.png" group-title="📜 紀錄頻道 | Documentary",MTV Live
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=mtvhd_twn/
-#EXTINF:-1 tvg-name="NatGeo_Wild HD" tvg-logo="https://logo.catvod.com/NatGeo_Wild HD.png" group-title="📜 紀錄頻道 | Documentary",NatGeo_Wild HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeowild/
-#EXTINF:-1 tvg-name="Animal_Planet" tvg-logo="https://logo.catvod.com/Animal_Planet.png" group-title="📜 紀錄頻道 | Documentary",Animal_Planet
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AnimalPlanet/
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://logo.catvod.com/HGTV.png" group-title="📜 紀錄頻道 | Documentary",HGTV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=HGTV/
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://logo.catvod.com/TLC.png" group-title="📜 紀錄頻道 | Documentary",TLC
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Tlc/
-#EXTINF:-1 tvg-name="Foodnetwork Hd" tvg-logo="https://logo.catvod.com/Foodnetwork Hd.png" group-title="📜 紀錄頻道 | Documentary",Foodnetwork Hd
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Foodnetwork/
-#EXTINF:-1 tvg-name="Asia Food Network" tvg-logo="https://logo.catvod.com/Asia Food Network.png" group-title="📜 紀錄頻道 | Documentary",Asia Food Network
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Afc/
-#EXTINF:-1 tvg-name="Animal Planet (Eng)" tvg-logo="https://logo.catvod.com/Animal Planet (Eng).png" group-title="📜 紀錄頻道 | Documentary",Animal Planet (Eng)
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=AnimalPlanet/
-#EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://logo.catvod.com/NatGeo Wild HD.png" group-title="📜 紀錄頻道 | Documentary",NatGeo Wild HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Natgeowild/
-#EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://logo.catvod.com/Discovery Asia.png" group-title="📜 紀錄頻道 | Documentary",Discovery Asia
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Discoveryasia/
-#EXTINF:-1 tvg-name="Dmax" tvg-logo="https://logo.catvod.com/Dmax.png" group-title="📜 紀錄頻道 | Documentary",Dmax
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dmax/
-#EXTINF:-1 tvg-name="探索频道" tvg-logo="https://logo.catvod.com/探索频道.png" group-title="📜 紀錄頻道 | Documentary",探索频道
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=discoverych_twn/
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://logo.catvod.com/ABC News.png" group-title="📰 新聞頻道 | News",ABC News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=abcnews_glo/
-#EXTINF:-1 tvg-name="iNews 互動新聞台" tvg-logo="https://logo.catvod.com/iNews 互動新聞台.png" group-title="📰 新聞頻道 | News",iNews 互動新聞台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=inews_twn/
-#EXTINF:-1 tvg-name="CBS HD" tvg-logo="https://logo.catvod.com/CBS HD.png" group-title="📰 新聞頻道 | News",CBS HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cbshd_glo/
-#EXTINF:-1 tvg-name="CBSN HD" tvg-logo="https://logo.catvod.com/CBSN HD.png" group-title="📰 新聞頻道 | News",CBSN HD
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cbsn_glo/
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="📰 新聞頻道 | News",CCTV-13 新聞與頻道
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cctv13/
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="📰 新聞頻道 | News",CGTN
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=CGTN/
-#EXTINF:-1 tvg-name="DW (Deutsch)" tvg-logo="https://logo.catvod.com/DW (Deutsch).png" group-title="📰 新聞頻道 | News",DW (Deutsch)
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=dw_twn/
-#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://logo.catvod.com/Fox News.png" group-title="📰 新聞頻道 | News",Fox News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=foxnews_twn/
-#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://logo.catvod.com/NHK World.png" group-title="📰 新聞頻道 | News",NHK World
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=nhkworld_japan/
-#EXTINF:-1 tvg-name="TVBS News 新聞台" tvg-logo="https://logo.catvod.com/TVBS News 新聞台.png" group-title="📰 新聞頻道 | News",TVBS News 新聞台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=tvbs_n/
-#EXTINF:-1 tvg-name="Al-Jazeera" tvg-logo="https://logo.catvod.com/Al-Jazeera.png" group-title="📰 新聞頻道 | News",Al-Jazeera
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=aljazeera_twn/
-#EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://logo.catvod.com/Bloomberg News.png" group-title="📰 新聞頻道 | News",Bloomberg News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bloomberg_twn/
-#EXTINF:-1 tvg-name="東森新聞 ETTV News" tvg-logo="https://logo.catvod.com/東森新聞 ETTV News.png" group-title="📰 新聞頻道 | News",東森新聞 ETTV News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvnews/
-#EXTINF:-1 tvg-name="東森財經新聞 ETTV Business" tvg-logo="https://logo.catvod.com/東森財經新聞 ETTV Business.png" group-title="📰 新聞頻道 | News",東森財經新聞 ETTV Business
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn/
-#EXTINF:-1 tvg-name="中天新聞 CTI News" tvg-logo="https://logo.catvod.com/中天新聞 CTI News.png" group-title="📰 新聞頻道 | News",中天新聞 CTI News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ctinews/
-#EXTINF:-1 tvg-name="非凡新聞台" tvg-logo="https://logo.catvod.com/非凡新聞台.png" group-title="📰 新聞頻道 | News",非凡新聞台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=feifannews_twn/
-#EXTINF:-1 tvg-name="台視新聞台 TTV News" tvg-logo="https://logo.catvod.com/台視新聞台 TTV News.png" group-title="📰 新聞頻道 | News",台視新聞台 TTV News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ttvnews_twn/
-#EXTINF:-1 tvg-name="民視新聞台 FTV News" tvg-logo="https://logo.catvod.com/民視新聞台 FTV News.png" group-title="📰 新聞頻道 | News",民視新聞台 FTV News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan/
-#EXTINF:-1 tvg-name="Al_Jazeera" tvg-logo="https://logo.catvod.com/Al_Jazeera.png" group-title="📰 新聞頻道 | News",Al_Jazeera
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Aljazeera/
-#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://logo.catvod.com/寰宇新聞台.png" group-title="📰 新聞頻道 | News",寰宇新聞台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn/
-#EXTINF:-1 tvg-name="中視新聞台" tvg-logo="https://logo.catvod.com/中視新聞台.png" group-title="📰 新聞頻道 | News",中視新聞台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=zhongshinews_twn/
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://logo.catvod.com/CNN.png" group-title="📰 新聞頻道 | News",CNN
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnn/
-#EXTINF:-1 tvg-name="CNN backup" tvg-logo="https://logo.catvod.com/CNN backup.png" group-title="📰 新聞頻道 | News",CNN backup
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cnn_twn/
-#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://logo.catvod.com/BBC World News.png" group-title="📰 新聞頻道 | News",BBC World News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bbcnews/
-#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://logo.catvod.com/BBC World News.png" group-title="📰 新聞頻道 | News",BBC World News
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bbcnews/
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://logo.catvod.com/CNBC.png" group-title="📰 新聞頻道 | News",CNBC
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cnbc/
-#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://logo.catvod.com/Bloomberg TV.png" group-title="📰 新聞頻道 | News",Bloomberg TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bloomberg/
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://logo.catvod.com/CNA.png" group-title="📰 新聞頻道 | News",CNA
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna/
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://logo.catvod.com/DW.png" group-title="📰 新聞頻道 | News",DW
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Dw/
-#EXTINF:-1 tvg-name="France 24" tvg-logo="https://logo.catvod.com/France 24.png" group-title="📰 新聞頻道 | News",France 24
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=france24_twn/
-#EXTINF:-1 tvg-name="France 24" tvg-logo="https://logo.catvod.com/France 24.png" group-title="📰 新聞頻道 | News",France 24
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=France24/
-#EXTINF:-1 tvg-name="Skynews" tvg-logo="https://logo.catvod.com/Skynews.png" group-title="📰 新聞頻道 | News",Skynews
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Skynews/
-#EXTINF:-1 tvg-name="Skynews" tvg-logo="https://logo.catvod.com/Skynews.png" group-title="📰 新聞頻道 | News",Skynews
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=skynews_twn/
-#EXTINF:-1 tvg-name="NHK Premium" tvg-logo="https://logo.catvod.com/NHK Premium.png" group-title="📰 新聞頻道 | News",NHK Premium
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=NHKpremium/
-#EXTINF:-1 tvg-name="Baby TV Eng" tvg-logo="https://logo.catvod.com/Baby TV Eng.png" group-title="🧸 兒童頻道 | Kids",Baby TV Eng
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Ind_babytv/
-#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://logo.catvod.com/CBeebies.png" group-title="🧸 兒童頻道 | Kids",CBeebies
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cbeebies/
-#EXTINF:-1 tvg-name="Kids TV" tvg-logo="https://logo.catvod.com/Kids TV.png" group-title="🧸 兒童頻道 | Kids",Kids TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=KidsTV/
-#EXTINF:-1 tvg-name="Momo TV" tvg-logo="https://logo.catvod.com/Momo TV.png" group-title="🧸 兒童頻道 | Kids",Momo TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=momo1_twn/
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title="🧸 兒童頻道 | Kids",Animax
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Animax/
-#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://logo.catvod.com/Baby TV.png" group-title="🧸 兒童頻道 | Kids",Baby TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=babytv_twn/
-#EXTINF:-1 tvg-name="MiaoMi" tvg-logo="https://logo.catvod.com/MiaoMi.png" group-title="🧸 兒童頻道 | Kids",MiaoMi
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=MiaoMi/
-#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://logo.catvod.com/靖天卡通台.png" group-title="🧸 兒童頻道 | Kids",靖天卡通台
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn/
-#EXTINF:-1 tvg-name="东森幼幼 Yoyo TV" tvg-logo="https://logo.catvod.com/东森幼幼 Yoyo TV.png" group-title="🧸 兒童頻道 | Kids",东森幼幼 Yoyo TV
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=yoyo_twn/
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://logo.catvod.com/Nickelodeon.png" group-title="🧸 兒童頻道 | Kids",Nickelodeon
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickelodeon/
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://logo.catvod.com/Nick Jr.png" group-title="🧸 兒童頻道 | Kids",Nick Jr
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickjr/
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://logo.catvod.com/Cartoon Network.png" group-title="🧸 兒童頻道 | Kids",Cartoon Network
-https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Cn/
+
+
 #EXTINF:-1 tvg-name="周星星" tvg-logo="https://logo.catvod.com/周星星.png" group-title="♨️Movie",周星星
 http://feilong123.vip/huya.php?raw=1&id=11342412
 #EXTINF:-1 tvg-name="成龙" tvg-logo="https://logo.catvod.com/成龙.png" group-title="♨️Movie",成龙
@@ -1634,8 +345,8 @@ http://feilong123.vip/huya.php?raw=1&id=11342386
 http://feilong123.vip/huya.php?raw=1&id=11342421
 #EXTINF:-1 tvg-name="李茶的姑妈" tvg-logo="https://logo.catvod.com/李茶的姑妈.png" group-title="♨️Movie",李茶的姑妈
 http://feilong123.vip/huya.php?raw=1&id=880261
-#EXTINF:-1 tvg-name="开心影视" tvg-logo="https://logo.catvod.com/开心影视.png" group-title="♨️Movie",开心影视
-https://gitee.com/baohe2025/bh/raw/master/kx.mp4
+#EXTINF:-1 tvg-name="宝盒资源" tvg-logo="https://logo.catvod.com/宝盒资源.png" group-title="♨️Movie",宝盒资源
+https://gitee.com/baohe2025/bh/raw/master/bh.mp4
 #EXTINF:-1 tvg-name="王晶" tvg-logo="https://logo.catvod.com/王晶.png" group-title="♨️Movie",王晶
 http://feilong123.vip/huya.php?raw=1&id=11602058
 #EXTINF:-1 tvg-name="贺岁档" tvg-logo="https://logo.catvod.com/贺岁档.png" group-title="♨️Movie",贺岁档
@@ -1704,8 +415,8 @@ http://feilong123.vip/huya.php?raw=1&id=11602071
 http://feilong123.vip/huya.php?raw=1&id=21059594
 #EXTINF:-1 tvg-name="情满四合院" tvg-logo="https://logo.catvod.com/情满四合院.png" group-title="♨️剧集",情满四合院
 http://feilong123.vip/huya.php?raw=1&id=11342426
-#EXTINF:-1 tvg-name="开心影视" tvg-logo="https://logo.catvod.com/开心影视.png" group-title="♨️剧集",开心影视
-https://gitee.com/baohe2025/bh/raw/master/kx.mp4
+#EXTINF:-1 tvg-name="宝盒资源" tvg-logo="https://logo.catvod.com/宝盒资源.png" group-title="♨️剧集",宝盒资源
+https://gitee.com/baohe2025/bh/raw/master/bh.mp4
 #EXTINF:-1 tvg-name="胡八一" tvg-logo="https://logo.catvod.com/胡八一.png" group-title="♨️剧集",胡八一
 http://feilong123.vip/huya.php?raw=1&id=11352871
 #EXTINF:-1 tvg-name="搞笑一家人" tvg-logo="https://logo.catvod.com/搞笑一家人.png" group-title="♨️剧集",搞笑一家人
@@ -2169,11 +880,11 @@ http://feilong123.vip/huya.php?raw=1&id=11342426
 #EXTINF:-1 tvg-name="搞笑_陈翔六点半" tvg-logo="https://logo.catvod.com/搞笑_陈翔六点半.png" group-title="♨️虎牙",搞笑_陈翔六点半
 http://feilong123.vip/huya.php?raw=1&id=11274154
 #EXTINF:-1 tvg-name="维护不易" tvg-logo="https://logo.catvod.com/维护不易.png" group-title="♨️♨️赞赏支持",维护不易
-https://gitee.com/baohe2025/bh/raw/master/kx.mp4
+https://gitee.com/baohe2025/bh/raw/master/bh.mp4
 #EXTINF:-1 tvg-name="感谢支持" tvg-logo="https://logo.catvod.com/感谢支持.png" group-title="♨️♨️赞赏支持",感谢支持
 https://gitee.com/baohe2025/bh/raw/master/bh.mp4
 #EXTINF:-1 tvg-name="觉得不错" tvg-logo="https://logo.catvod.com/觉得不错.png" group-title="♨️♨️赞赏支持",觉得不错
-https://gitee.com/baohe2025/bh/raw/master/kx.mp4
+https://gitee.com/baohe2025/bh/raw/master/bh.mp4
 #EXTINF:-1 tvg-name="可以打赏" tvg-logo="https://logo.catvod.com/可以打赏.png" group-title="♨️♨️赞赏支持",可以打赏
 https://gitee.com/baohe2025/bh/raw/master/bh.mp4
 #EXTINF:-1 tvg-name="HOY国际Finance台" tvg-logo="https://logo.catvod.com/HOY国际Finance台.png" group-title="Movie🎬频道",HOY国际Finance台
@@ -2360,36 +1071,7 @@ https://cdn8.163189.xyz/163189/lhrh
 https://cdn8.163189.xyz/163189/lhox
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://logo.catvod.com/龙华经典.png" group-title="三网Live",龙华经典
 https://cdn8.163189.xyz/163189/lhjd
-#EXTINF:-1 tvg-name="民视News" tvg-logo="https://logo.catvod.com/民视News.png" group-title="三网Live",民视News
-http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1 tvg-name="非凡News" tvg-logo="https://logo.catvod.com/非凡News.png" group-title="三网Live",非凡News
-rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://logo.catvod.com/寰宇新聞.png" group-title="三网Live",寰宇新聞
-https://stream1.freetv.fun/05d08ea65b8b2d697984abf19f4545c698308338fdf8aaeac86784ab6e6ef8b0.m3u8
-#EXTINF:-1 tvg-name="台视News" tvg-logo="https://logo.catvod.com/台视News.png" group-title="三网Live",台视News
-http://74.91.26.218:82/live/ttvnews.m3u8
-#EXTINF:-1 tvg-name="中视News" tvg-logo="https://logo.catvod.com/中视News.png" group-title="三网Live",中视News
-http://74.91.26.218:82/live/ctvnews.m3u8
-#EXTINF:-1 tvg-name="华视News" tvg-logo="https://logo.catvod.com/华视News.png" group-title="三网Live",华视News
-http://74.91.26.218:82/live/ctsnews.m3u8
-#EXTINF:-1 tvg-name="中天News" tvg-logo="https://logo.catvod.com/中天News.png" group-title="三网Live",中天News
-https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
-#EXTINF:-1 tvg-name="镜News" tvg-logo="https://logo.catvod.com/镜News.png" group-title="三网Live",镜News
-https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
-#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://logo.catvod.com/民视台湾台.png" group-title="三网Live",民视台湾台
-http://74.91.26.218:82/live/ftvtw.m3u8
-#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://logo.catvod.com/民视第一台.png" group-title="三网Live",民视第一台
-http://74.91.26.218:82/live/ftvdy.m3u8
-#EXTINF:-1 tvg-name="公视台语台" tvg-logo="https://logo.catvod.com/公视台语台.png" group-title="三网Live",公视台语台
-http://74.91.26.218:82/live/ptsty.m3u8
-#EXTINF:-1 tvg-name="中视菁采台" tvg-logo="https://logo.catvod.com/中视菁采台.png" group-title="三网Live",中视菁采台
-http://74.91.26.218:82/live/ctvjc.m3u8
-#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://logo.catvod.com/中视经典.png" group-title="三网Live",中视经典
-http://74.91.26.218:82/live/ctvjd.m3u8
-#EXTINF:-1 tvg-name="台视Finance" tvg-logo="https://logo.catvod.com/台视Finance.png" group-title="三网Live",台视Finance
-http://74.91.26.218:82/live/ttvcj.m3u8
-#EXTINF:-1 tvg-name="华视教育Sports文化" tvg-logo="https://logo.catvod.com/华视教育Sports文化.png" group-title="三网Live",华视教育Sports文化
-http://74.91.26.218:82/live/ctsjy.m3u8
+
 #EXTINF:-1 tvg-name="GOODTV好消息" tvg-logo="https://logo.catvod.com/GOODTV好消息.png" group-title="三网Live",GOODTV好消息
 http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="GOOD2" tvg-logo="https://logo.catvod.com/GOOD2.png" group-title="三网Live",GOOD2
